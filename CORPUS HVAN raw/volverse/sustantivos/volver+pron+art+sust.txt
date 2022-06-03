@@ -1,0 +1,1244 @@
+
+
+						Corpus del Español del Siglo XXI (CORPES)
+
+
+							    14/03/2018 - 11:03:42
+
+
+
+--------------------------------------------------------------- MODO DE CITA ---------------------------------------------------------------
+
+
+  REAL ACADEMIA ESPAÑOLA: Banco de datos (CORPES XXI) [en línea]. Corpus del Español del Siglo XXI (CORPES). <http://www.rae.es> [14/03/2018]
+
+
+
+================================================================= CONSULTA =================================================================
+
+
+  LEMA = {volver}
+
+  CLASE DE PALABRA = {verbo}
+
+
+ Proximidad
+ ----------
+
+  [DERECHA] [DISTANCIA = 1]
+
+    CLASE DE PALABRA = {pronombre personal}
+
+
+  [DERECHA] [DISTANCIA = 2]
+
+    CLASE DE PALABRA = {artículo}
+
+
+  [DERECHA] [DISTANCIA = 3]
+
+    CLASE DE PALABRA = {sustantivo}
+
+
+================================================================ RESULTADOS ================================================================
+
+[1]
+
+
+-={Concordancia}=-
+
+
+duele. Me desespero por saber si es de día o de noche, como si ello cambiara en algo las cosas. Esto no puede ser una realidad a secas; será una realidad imaginada. Sin embargo, no puedes volverle las espaldas, por más pavorosa que te parezca tal realidad. No, no puedes cerrar los ojos aunque los tengas completamente cerrados. Estoy siendo víctima de una guerra que no es mi guerra. (¿
+
+
+-={Referencia bibliográfica}=-
+
+
+Serrano, Marcela: Lo que está en mi corazón. Barcelona: Planeta, 2001.
+
+
+-={Clasificación CORPES}=-
+
+
+2001. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[2]
+
+
+-={Concordancia}=-
+
+
+al Sur, posee un conjunto de intereses distintos de los de Europa y que son peculiarmente suyos. Ella debe, por lo tanto, tener un sistema propio, separado y aparte de Europa. Mientras esta última está bregando para volverse el domicilio del despotismo', bipolariza Jefferson, ´nuestro esfuerzo habrá de empeñarse seguramente en hacer de nuestro hemisferio el hemisferio de la libertad'. Al tono de la concepción jeffersoniana de las dos esferas
+
+
+-={Referencia bibliográfica}=-
+
+
+Orozco, José Luis: De teólogos, pragmáticos y geopolíticos. Aproximación al globalismo norteamericano. Barcelona: Gedisa, 2001.
+
+
+-={Clasificación CORPES}=-
+
+
+2001. Criterio: Primera edición.
+No ficción - Escrito - Libro - Política, economía y justicia - México - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[3]
+
+
+-={Concordancia}=-
+
+
+PEDRO: (Volviéndole el rostro hacia el espejo.) ¿Qué ves?
+
+
+-={Referencia bibliográfica}=-
+
+
+Cremades, Antonio: Instantáneas. www.muestrateatro.com: muestrateatro.com, 2013-07-10.
+
+
+-={Clasificación CORPES}=-
+
+
+2001. Criterio: Fecha de escritura.
+Ficción - Escrito - Libro - Teatro - España - Ficción.
+
+Notas: Fecha de publicación: fecha de descarga del texto fuente.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[4]
+
+
+-={Concordancia}=-
+
+
+podría decir que ahora la gente no necesita la biblioteca para investigar, para informarse. Tiene el Internet y por lo tanto puede obtener la información sin salir de su propia casa. Según eso, la biblioteca tiende a volverse el sitio del placer de la lectura, el sitio privilegiado para leer.
+
+
+-={Referencia bibliográfica}=-
+
+
+Castilla Cardona, Carlos: ´SALMONA: BIBLIOTECA EN ACCI”N'. El Tiempo. Bogotá: eltiempo.com, 2001-10-28.
+
+
+-={Clasificación CORPES}=-
+
+
+2001. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - Colombia - Caribe continental - Entrevista.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[5]
+
+
+-={Concordancia}=-
+
+
+7. Así, se dice que esta nueva economía global está basada en el conocimiento, al suplantar el conocimiento al capital físico como fuente principal de riqueza. Al volverse el conocimiento más importante, se vuelve más importante la Educación Superior, cuyas funciones principales son la creación y transmisión del conocimiento y el entrenamiento de una fuerza laboral competitiva y de líderes políticos y de negocios.
+
+
+-={Referencia bibliográfica}=-
+
+
+´LA EDUCACION SUPERIOR EN CENTROAMERICA Y REPUBLICA DOMINICANA'. Theorethikos. San Salvador: UFG Editores, 2001-12-03.
+
+
+-={Clasificación CORPES}=-
+
+
+2001. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - El Salvador - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[6]
+
+
+-={Concordancia}=-
+
+
+sueño. Antes de que los nudillos lo lastimaran, Ronald dijo: Escucho los ruidos de la calle. Acto seguido, la saliva equivocada le clausuró la garganta. Escupió para poder respirar. Con la primera bocanada de aire pareció volverle el entendimiento, porque su cara, de repente, se torció de espanto. Pidió auxilio. Se sintió incapaz de soportar un nuevo dolor.
+
+
+-={Referencia bibliográfica}=-
+
+
+Consiglio, Jorge: El Bien. Madrid: ”pera Prima, 2002.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[7]
+
+
+-={Concordancia}=-
+
+
+Pero la verdad es que la rodeaba como una niebla acolchada y silenciosa. Una niebla que yo podía romper con un grito o con un manotazo; pero que, nada más volver yo la espalda, se reconstruía, acompañándola, envolviéndola, disfrazándola, ocultándola a mis ojos. Mis ojos que, por otra parte, podían verla y acariciarla y poseerla en su plena
+
+
+-={Referencia bibliográfica}=-
+
+
+Gala, Antonio: ´LIRIA'. Los invitados al jardín. Barcelona: Planeta, 2002.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[8]
+
+
+-={Concordancia}=-
+
+
+muy mal, y aunque el jueves ya no tenga fiebre, se va a quedar muy flojo, muy débil. En el mejor de los casos, podríamos salir el viernes por la tarde, ir a la boda y volvernos el domingo, y eso sería una paliza tremenda para todos, y sobre todo para él, así que lo mejor.. ¿Y por qué no os vais y lo dejáis conmigo? Después de un instante de silencio absoluto
+
+
+-={Referencia bibliográfica}=-
+
+
+Grandes, Almudena: Los aires difíciles. Barcelona: Tusquets, 2002.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[9]
+
+
+-={Concordancia}=-
+
+
+En este sentido, espíritu es lugar de recepción del hombre en su totalidad "de todo -precisa Sansón- lo que viene al alma... Si en vez de volverse el alma hacia el exterior, de contentarse en conocimientos, recuerdos y bienes, claros y distintos, se vuelve hacia su centro, y entonces se mantiene en desnudez y pobreza espirituales, comunicará inmediatamente con
+
+
+-={Referencia bibliográfica}=-
+
+
+Ofilada Mina, Macario: San Juan de la Cruz: el sentido experiencial del conocimiento de Dios. Burgos: Monte Carmelo, 2002.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+No ficción - Escrito - Libro - Ciencias sociales, creencias y pensamiento - Filipinas - Filipinas - Académico.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[10]
+
+
+-={Concordancia}=-
+
+
+A veces me entra miedo a que pudieran un día volverse las tornas. Toquemos madera y celebremos, pues nadie nos quita lo bailao.
+
+
+-={Referencia bibliográfica}=-
+
+
+Pons, Matilde: Lugares de ceniza. Guadalajara: Secretaría de Cultura Jalisco, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[11]
+
+
+-={Concordancia}=-
+
+
+Sí servía, apenas con un trago de a deveras y empezó a volverme la rabia.
+
+
+-={Referencia bibliográfica}=-
+
+
+Alvarado, Jesús: Bajo el disfraz (los cantares prohibidos). México D. F.: Fondo Editorial Tierra Adentro, Conaculta, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+Notas: Premio Binacional de Novela Joven Frontera de Palabras 2002.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[12]
+
+
+-={Concordancia}=-
+
+
+vacío. Bastaba que Enrique César apareciese en una habitación con varias personas, y era como si en el lugar hubiese caído una bomba de congelación. Tomassi, en particular, cuando no lo miraba raro era porque lo evitaba volviéndole la espalda. "Me pueden matar en unas horas o en unos días", pensaba.
+
+
+-={Referencia bibliográfica}=-
+
+
+Laiseca, Alberto: Las aventuras del profesor Eusebio Filigranati. Buenos Aires: Interzona, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[13]
+
+
+-={Concordancia}=-
+
+
+Sicilia entera se inflamó, y con Sicilia, el mundo. Cuando Garibaldi entró en Palermo, Víctor Hugo saludó la "fantástica aventura", y Alejandro Dumas navegó hasta Sicilia para volverse el cronista y el biógrafo de Garibaldi, así como en 1850 se había vuelto el panfletista de la causa uruguaya, cuando llamó a Montevideo "La Nueva Troya". Pero cuando Garibaldi reprimió en Sicilia las primeras
+
+
+-={Referencia bibliográfica}=-
+
+
+Dujovne Ortiz, Alicia: Anita cubierta de arena. Buenos Aires: Alfaguara, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[14]
+
+
+-={Concordancia}=-
+
+
+, con ese paso con que los grandes intérpretes parecen tan impacientes por tocar que casi desprecian al público que les aplaude. Mi madre también contribuyó a fomentar esa seguridad, pero ya se sabe lo ciegas que pueden volverse las madres con las pequeñas virtudes de sus hijos. Cualquier destello las deslumbra, y confunden la habilidad con el talento, la soltura con la genialidad.
+
+
+-={Referencia bibliográfica}=-
+
+
+Fuentes, Eugenio: Las manos del pianista. Barcelona: Tusquets, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[15]
+
+
+-={Concordancia}=-
+
+
+Fracassi reparó dolorosamente en que Mirtha no excluía a Carrera de su pregunta. Trató de reír, de volverse el de siempre.
+
+
+-={Referencia bibliográfica}=-
+
+
+Guebel, Daniel: Carrera y Fracassi. Buenos Aires: Caballo de Troya, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[16]
+
+
+-={Concordancia}=-
+
+
+no, en absoluto, le digo yo, pero enseguida me veo obligado a rectificar, bueno, sí, a aquellas fiestas asistía. Jamás he pensado que la infancia sea un período atroz, sin embargo me he propuesto volverle la espalda. A ratos conseguimos ver la luz en nuestra vida, aunque el resto del tiempo tratamos denodadamente de olvidar los momentos en que distinguimos esa luz. ´Alguien como yo -le digo a la actriz
+
+
+-={Referencia bibliográfica}=-
+
+
+Torche, Pablo: ´En compañía de actores'. Marks, Camilo: Los mejores cuentos chilenos del siglo XXI. Santiago de Chile: Sudamericana, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[17]
+
+
+-={Concordancia}=-
+
+
+El niño no contestó. Berto contempló con odio la manito aferrándole la muñeca. Contorsionó su cuerpo como para volverle la espalda e, inesperadamente, incluso para él, giró con toda la fuerza de su bronca y le asestó un codazo en la mandíbula. El niño hizo "zac", elevó sus pupilas hacia el
+
+
+-={Referencia bibliográfica}=-
+
+
+Nielsen, Gustavo: Auschwitz. Buenos Aires: Alfaguara, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[18]
+
+
+-={Concordancia}=-
+
+
+. Luego de largas contradicciones entre España y Francia por el dominio de ese territorio, la primera acabó cediéndolo en 1697 mediante un tratado de paz conocido como la paz de Ryswick. A partir de ese momento Saint Domingue comenzó a volverse la colonia más próspera del Caribe, pues existía una importantísima trata de esclavos y aparte de los primeros colonizadores comenzaron a llegar de la metrópoli, segundones de familias nobles dispuestos a hacer fortuna. Los blancos también se
+
+
+-={Referencia bibliográfica}=-
+
+
+Polanco, Yinett: ´G…NESIS DE LA PRIMERA REVOLUCI”N NEGRA EN AM…RICA LATINA'. La Jiribilla. La Habana: lajiribilla.cu, 2004-01-10.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - Cuba - Antillas - Varios.
+
+Notas: Periodicidad: trimestral.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[19]
+
+
+-={Concordancia}=-
+
+
+Volverme el mirón al borde del acuario donde el pez me observa medio bizco y hace y deshace soñoliento sus vagas burbujas.
+
+
+-={Referencia bibliográfica}=-
+
+
+Solares, Ignacio: La invasión. México D. F.: Alfaguara, 2005.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[20]
+
+
+-={Concordancia}=-
+
+
+Mercedes agradeció en silencio por no tener que estropear la cocina para una cena que estaba volviéndose la obligación de cada noche.
+
+
+-={Referencia bibliográfica}=-
+
+
+Amengual, Claudia: Desde las cenizas. Montevideo: Alfaguara, 2005.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Uruguay - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[21]
+
+
+-={Concordancia}=-
+
+
+La acusación de Cuesta, no obstante, no era algo original o personal. Como él, hubo muchos por entonces que, en lugar de alegrarse de mi fortuna, se molestaron por ella hasta el punto de volverme la espalda algunas veces. Lo cual, aparte de sorprenderme (yo pensaba que, al revés, ocurría lo contrario en esos casos), me fue llenando de dudas y haciéndome más retraído. Algo que
+
+
+-={Referencia bibliográfica}=-
+
+
+Llamazares, Julio: El cielo de Madrid. Madrid: Alfaguara, 2005.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[22]
+
+
+-={Concordancia}=-
+
+
+no está el respeto cívico de los emblemas nacionales. Mi bandera debe tener el color que dice la ley, que no tenga el color del azul del Motagua ni el azul del Partido Nacional sino el azul celeste. Volverle los colores a la bandera es volver a la dignidad nacional.
+
+
+-={Referencia bibliográfica}=-
+
+
+Custodio López, Ramón: ´¿25 años de democracia?'. La Tribuna. Tegucigalpa: latribuna.hn, 2005-05-15.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - Honduras - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[23]
+
+
+-={Concordancia}=-
+
+
+ha podido subsistir tanto gracias al oxígeno atmosférico que impide que se escape el hidrógeno al que captura para formar agua. Además permitió que la mayor parte de los meteoritos que caían a la tierra ardiesen consumiéndose por completo, volviéndose la vida en la Tierra mucho más segura.
+
+
+-={Referencia bibliográfica}=-
+
+
+Burgos, Rosa: ´La biosfera'. Revista Natural. Madrid: revistanatural.com, 2005-03.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias y tecnología - España
+
+Notas: Periodicidad: trimestral.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[24]
+
+
+-={Concordancia}=-
+
+
+misión sagrada que pone a prueba la fe de los elegidos, y el miedo que deben vencer para subir a la plataforma y dar el brinco, los lleva afirmar su carácter, a convertirse en hombres y a volverse las figuras más admiradas de su tribu. Hay un riesgo, desde luego, pero éste se considera un sacrificio inevitable, pues si mana la sangre es en función del bien común, y recuerda que la mayor parte de
+
+
+-={Referencia bibliográfica}=-
+
+
+Botero, Juan Carlos: El arrecife. Barcelona: Belacqva, 2006.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Colombia - Caribe continental - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[25]
+
+
+-={Concordancia}=-
+
+
+madre -dice Fernandito- que el oporto engorda lo que más, y encima es adictivo. Es el chocolate del alcohólico, por la concentración que tiene a los veinte años, trasvasado de barrica a barrica, volviéndose el azúcar transparente, tawny, en las bodegas de la Quinta do Bom Retiro. °Qué propio, ¿no papá?, de ti, beberte tu buen retiro a sorbos ahora que te ha dejado
+
+
+-={Referencia bibliográfica}=-
+
+
+Pombo, Álvaro: La fortuna de Matilda Turpin. Barcelona: Planeta, 2006.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[26]
+
+
+-={Concordancia}=-
+
+
+ACEPTAR que alrededor del amor, la sociedad ha creado muchas cosas que son un fraude. Por eso debo dejar de volverle la cara a la verdad solo por seguir en una falsa comodidad o por miedo al dolor.
+
+
+-={Referencia bibliográfica}=-
+
+
+Caminero, Laura: ´Aprender, mejorar y aceptar'. Hoy digital. Santo Domingo: hoy.com.do, 2006-03-10.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Salud - República Dominicana - Antillas
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[27]
+
+
+-={Concordancia}=-
+
+
+Los aspectos prácticos del proyecto como estandarización de lenguajes computacionales, interoperabilidad institucional, gestión administrativa en el back end de la interfaz, parecen volverse los temas centrales sobre los cuales desarrollar, no sólo la estructura del gobierno electrónico, sino la concepción misma del proyecto. Dejando de lado las recomendaciones y las experiencias de quienes tienen varios años de experiencia en gobernabilidad
+
+
+-={Referencia bibliográfica}=-
+
+
+Albornoz, Belén: ´Experiencias de gobierno electrónico en la región andina: una visión de conjunto'. Albornoz, Belén; Rivero, Martín [ed.]: Experiencias andinas de gobierno electrónico: La problemática de la participación ciudadana. Quito: FLACSO, 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+No ficción - Escrito - Libro - Política, economía y justicia - Ecuador - Andina - Divulgación.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[28]
+
+
+-={Concordancia}=-
+
+
+eso no pareció importarle, tendría una ducha cerca o en su coche otra camisa, otro traje, o acaso era aquel su garaje, el de su casa, se dio media vuelta y salió de cuadro volviéndose la pistola al bolsillo, fue una secuencia muy breve, por el tipo de pantalones -un poco cortos y estrechos, grises pero brillantosos- habría dicho que era americano, para que Tupra conservara el vídeo debía
+
+
+-={Referencia bibliográfica}=-
+
+
+Marías, Javier: Tu rostro mañana. 3 Veneno y sombra y adiós. Madrid: Santillana, 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[29]
+
+
+-={Concordancia}=-
+
+
+para la ocasión su particular spin doctor de guardia. Pero a la larga, los británicos se cansaron de la propaganda sensacionalista de Blair, que se parecía demasiado a una fraudulenta falsificación de la realidad, por lo que acabaron volviéndole la espalda. De ahí que su sucesor, Gordon Brown, escogiera como lema el eslogan "NotFlashJust Gordon", para hacer ver que renunciaba a la tentación de construirse un personaje mediático dotado de poderes mágicos (Flash
+
+
+-={Referencia bibliográfica}=-
+
+
+Gil Calvo, Enrique: La lucha política a la española. Madrid: Santillana, 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+No ficción - Escrito - Libro - Política, economía y justicia - España
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[30]
+
+
+-={Concordancia}=-
+
+
+interrumpía conversaciones y atraía miradas de reprobación. Pero nadie le dirigió la palabra ni trató de averiguar qué hacía ella allí. Se limitaban a torcer la cara en una mueca de disgusto y a retomar sus actividades, volviéndole la espalda y fingiendo que no la habían visto.
+
+
+-={Referencia bibliográfica}=-
+
+
+Gallego García, Laura: La emperatriz de los etéreos. Madrid: Alfaguara, 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[31]
+
+
+-={Concordancia}=-
+
+
+MACBETH.- No puedes volverme la espalda.
+
+
+-={Referencia bibliográfica}=-
+
+
+López Mozo, Jerónimo: Los Macbeth. www.muestrateatro.com: muestrateatro.com, 2013-05-17.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Fecha de escritura.
+Ficción - Escrito - Libro - Teatro - España - Ficción.
+
+Notas: Fecha de publicación: fecha de descarga del texto fuente.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[32]
+
+
+-={Concordancia}=-
+
+
+Aunque suene paradójico, entre más aumenta la violencia en Iraq más insensible parece volverse el mundo ante la tragedia que vive el país árabe.
+
+
+-={Referencia bibliográfica}=-
+
+
+´Molino de papel'. El País. Cali: elpais.com.co, 2007-01-19.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Política, economía y justicia - Colombia - Caribe continental
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[33]
+
+
+-={Concordancia}=-
+
+
+En 1924 aparece otra obra fundamental que intenta dar su visión de la crisis. La montaña mágica de Thomas Mann surge con la no tan equivocada pretensión de volverse la novela de la enfermedad y la decadencia europeas. La novela es una investigación del nacionalismo y del liberalismo, una amalgama de comedia y tragedia en la que todos los personajes tienden a ser figuras alegóricas.
+
+
+-={Referencia bibliográfica}=-
+
+
+Muñoz Arteaga, Valmore: ´Crisis del pensamiento en los albores del siglo XX'. Letralia. Cagua: letralia.com, 2007-02-19.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - Venezuela - Caribe continental - Crítica.
+
+Notas: Periodicidad: quincenal.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[34]
+
+
+-={Concordancia}=-
+
+
+El plan, que entrará en vigor el próximo abril, ha sido criticado por quienes temen que afecte al atractivo de Londres como centro financiero global y que lleve a muchos millonarios a volverle la espalda a este país.
+
+
+-={Referencia bibliográfica}=-
+
+
+´Tres mil millonarios extranjeros podrían abandonar Gran Bretaña para escapar del fisco'. Elmundo.es. Madrid: elmundo.es, 2007-12-07.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Política, economía y justicia - España
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[35]
+
+
+-={Concordancia}=-
+
+
+"Nomás había que verles las caras a todos para saber que aquel señor tenía razón. Hasta las mujeres se mecían como si quisieran volverse la cintura de Cruz. Ella se me figuraba un corazón latiendo al moverse así; era como un jarro desparramándose y empapando a todos. Así siguió, dando vueltas, hasta que vimos que se acercaba
+
+
+-={Referencia bibliográfica}=-
+
+
+Fonseca, Gabriela: ´La Cuzca'. Los diablos de Teresa y otros relatos. México D. F.: Jus, 2008.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[36]
+
+
+-={Concordancia}=-
+
+
+Dicen que hay afrodisíacos... posiblemente; más adelante les contaré mis experiencias con esos fabulosos "aliados" que nos ayudan a intensificar las vivencias con nuestros amores. Pero cuando la pasión está encendida un pedazo de pan puede volverse el afrodisíaco más espectacular.
+
+
+-={Referencia bibliográfica}=-
+
+
+García García, Ligia: Los secretos de Adán &amp; Eva: salsas, besos y otras delicias. Ciudad de Guatemala: Dirección General del Diario de Centro América y Tipografía Nacional, 2008.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+No ficción - Escrito - Libro - Actualidad, ocio y vida cotidiana - Guatemala - México y Centroamérica - Divulgación.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[37]
+
+
+-={Concordancia}=-
+
+
+se convirtió en el centro de las inmigraciones. Las personas llegaban por montones, y se iban muy pocas. Su densidad demográfica rompió los límites de la ciudad, los niños aparecían en menos tiempo, y fue volviéndose la mancha más grande de la ciudad. Cuando se viene en avión, pasar sobre el barrio es ver el petróleo extenderse sobre el pasto. Quien llegó construyó su casa al lado de la anterior, así se
+
+
+-={Referencia bibliográfica}=-
+
+
+Pachón García, Carlos Enrique: La ciudad bajo el río. Villavicencio: Fondo Mixto de Promoción de Cultura y las Artes del Meta, 2008.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Colombia - Caribe continental - Ficción.
+
+Notas: Novela ganadora de los Premios de Literatura Departamento del Meta 2007.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[38]
+
+
+-={Concordancia}=-
+
+
+-Te equivocas, nada más práctico que lo que te digo -contestó, volviéndome la espalda.
+
+
+-={Referencia bibliográfica}=-
+
+
+Pujol, Carlos: Dos historias romanas. Barcelona: Ediciones Destino, 2008.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+Notas: Tipología: Ficción.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[39]
+
+
+-={Concordancia}=-
+
+
+mahometanas carnívoras. Cuando volvía a casa, pasé por delante de una iglesia y escupí en vez de persignarme. Luego vi la televisión hasta que me hizo efecto el ansiolítico y me quedé dormido en el sofá. El viernes, al volverme la personalidad colombiana y culta, comprendí que estaba condenado a ser una cosa los lunes, miércoles y viernes y otra los martes, jueves y sábados. Todo en mi vida ha funcionado a días alternos,
+
+
+-={Referencia bibliográfica}=-
+
+
+Millás, Juan José: ´La vida. Alternancia'. Los objetos nos llaman. Barcelona: Seix Barral, 2008.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[40]
+
+
+-={Concordancia}=-
+
+
+-Creo que volveré a casa. Seguid vosotros. Yo necesito echarme un rato -digo por fin, dándome un pequeño impulso desde la estaca y volviéndoles la espalda para emprender el camino de regreso-. Os veré más tarde.
+
+
+-={Referencia bibliográfica}=-
+
+
+Palomas, Alejandro: El secreto de los Hoffman. Madrid: Plaza &amp; Janés, 2008.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[41]
+
+
+-={Concordancia}=-
+
+
+El neurólogo quería ver el teatro del cerebro de mi padre, volverse el espectador de esa intriga absurda como si la mente de papá encerrara un nuevo Ionesco. Nunca me gustó EugËne Ionesco. En sus historias los cadáveres crecen en una habitación y los hombres se convierten en rinocerontes;
+
+
+-={Referencia bibliográfica}=-
+
+
+Perez Gay, Rafael: Nos acompañan los muertos. México D. F.: Planeta, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[42]
+
+
+-={Concordancia}=-
+
+
+ajustable. Las metáforas clásicas de su constitución decaen y las más actuales no le otorgan otro mérito que el gasto. Aunque sea el albergue de un "yo" o un "ser" nada lo excusa de volverse el destino permanente del terror. Gratuito y flotante se dispersa entre variados dispositivos que lo usan de castigo o entretenimiento. En el itinerario histórico de las democracias occidentales ocupa la forma de cosa y sustancia, en
+
+
+-={Referencia bibliográfica}=-
+
+
+Ossa, Carlos: La semejanza perdida. Santiago de Chile: Metales pesados, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+No ficción - Escrito - Libro - Ciencias sociales, creencias y pensamiento - Chile - Chilena - Divulgación.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[43]
+
+
+-={Concordancia}=-
+
+
+. Cuando pienso en eso no acierto a quién de nosotros, lo claro es que los tres estamos de acuerdo; y aunque algunos compañeros quieren dividirnos no lo lograrán, °nunca!, porque hemos jurado jamás volvernos el uno contra el otro.
+
+
+-={Referencia bibliográfica}=-
+
+
+Berríos, Mario: Cenizas de una conspiración. San Pedro Sula: Pacura, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Honduras - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[44]
+
+
+-={Concordancia}=-
+
+
+a lo más se habría reído de él. Cuando uno es abuelo o padre o tío (o incluso amigo o novio o conocido) es casi imposible sacarse esa máscara de encima -y no lo recomiendo-; volverse el compinche de alguien, a quien tú a la vez miras con una máscara, es una ilusión. Pero no nos detengamos demasiado en esto. ⁄nicamente lo he comentado para poder llegar a lo que sucedió una vez
+
+
+-={Referencia bibliográfica}=-
+
+
+Díaz Klaassen, Francisco: Antología del cuento nuevo chileno. Providencia: Editorial Forja, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[45]
+
+
+-={Concordancia}=-
+
+
+La memoria no mantiene fría la cabeza, prefiere jugar con los recuerdos, elegir, tejer un mundo claro, volverle los forros al pasado. Los periódicos de la época confirman que entre 1925 y 1934 abundaron en Asturias los días lluviosos, las heladas y los veranos breves. Sin embargo en los primeros capítulos de esta historia van
+
+
+-={Referencia bibliográfica}=-
+
+
+García Montero, Luis: Mañana no será lo que Dios quiera. Madrid: Alfaguara, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[46]
+
+
+-={Concordancia}=-
+
+
+quedarse a vivir entre los mam, destrozando las expectativas que madame Pratchett había puesto en él como su mano derecha. Si te quedas no vuelvas con nosotros, le amenazó. Tienes una responsabilidad y no puedes volverle la espalda. Leave ni siquiera contestó. Lo tenía decidido. Además, ¿quién era aquella mujer para decirle lo que debía o no debía hacer? Madame Pratchett supo instantáneamente que aquello que hacía a Leave
+
+
+-={Referencia bibliográfica}=-
+
+
+Torres Blandina, Alberto: Niños rociando gato con gasolina. Madrid: Ediciones Siruela, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[47]
+
+
+-={Concordancia}=-
+
+
+vi ante mí a una mujer joven con pinta de loca, no exagero, que se cubría con un sombrero negro de alas flotantes y que vestía también de negro. Estuve a punto de ignorarla, sencillamente, y volverle la espalda. Sin ofrecerle siquiera que se sentase, le dije por mera cortesía "cuénteme algo acerca de usted misma, solo sé que ha insistido en verme", y ella, en efecto,
+
+
+-={Referencia bibliográfica}=-
+
+
+Araúz de Robles, Santiago: Mi nombre, Albert Camus. Madrid: Fundamentos, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Teatro - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[48]
+
+
+-={Concordancia}=-
+
+
+casi todos, por alguna extraña razón. Quizá exactamente por eso, porque al final es el lugar al que acabamos yendo casi todos. Y mi hábito ha cambiado, prefiero aprovechar los primeros días de la semana y volverme el jueves cuando las cosas se empiezan a poner realmente insoportables.
+
+
+-={Referencia bibliográfica}=-
+
+
+Segarra, Toni: Desde el otro lado del escaparate. Madrid: Espasa Calpe, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+No ficción - Escrito - Libro - Artes, cultura y espectáculos - España
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[49]
+
+
+-={Concordancia}=-
+
+
+castañas del fuego por el Gobierno? ¿Está dispuesta la señora Mercedes Cabanillas a blindar la búsqueda de diálogo que bajo presiones violentas busca concertar el primer ministro Yehude Simon con los nativos amazónicos? ¿Cuán colaboradora del gobierno puede volverse la bancada parlamentaria aprista hoy sumida en la suerte de las candidaturas internas del partido?
+
+
+-={Referencia bibliográfica}=-
+
+
+Paredes Castro, Juan: ´COMENTARIO DEL EDITOR'. El Comercio.com.pe. Lima: elcomercio.com.pe, 2009-06-03.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Política, economía y justicia - Perú - Andina
+
+
+------------------------------------------------------------------------------------------------------------------------------
+

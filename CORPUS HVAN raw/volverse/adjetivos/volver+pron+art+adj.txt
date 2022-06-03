@@ -1,0 +1,116 @@
+
+
+						Corpus del Español del Siglo XXI (CORPES)
+
+
+							    14/03/2018 - 11:04:52
+
+
+
+--------------------------------------------------------------- MODO DE CITA ---------------------------------------------------------------
+
+
+  REAL ACADEMIA ESPAÑOLA: Banco de datos (CORPES XXI) [en línea]. Corpus del Español del Siglo XXI (CORPES). <http://www.rae.es> [14/03/2018]
+
+
+
+================================================================= CONSULTA =================================================================
+
+
+  LEMA = {volver}
+
+  CLASE DE PALABRA = {verbo}
+
+
+ Proximidad
+ ----------
+
+  [DERECHA] [DISTANCIA = 1]
+
+    CLASE DE PALABRA = {pronombre personal}
+
+
+  [DERECHA] [DISTANCIA = 2]
+
+    CLASE DE PALABRA = {artículo}
+
+
+  [DERECHA] [DISTANCIA = 3]
+
+    CLASE DE PALABRA = {adjetivo}
+
+
+================================================================ RESULTADOS ================================================================
+
+[1]
+
+
+-={Concordancia}=-
+
+
+la ley. La base prejurídica de esta concepción estriba en que la conciencia moral de los ciudadanos es también cambiante, de lo cual se sigue que lo que es justo y moralmente bueno en un tiempo determinado puede volverse lo contrario en otros sucesivos, como la experiencia histórica nos ha demostrado. No es el derecho y la norma moral lo que hace del hombre un ciudadano probo, sino la aceptación de las leyes dictadas según
+
+
+-={Referencia bibliográfica}=-
+
+
+Ramis M., Pompeyo: Esencia prejurídica del derecho. Mérida: Editorial Venezolana C.A., 2002.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+No ficción - Escrito - Libro - Política, economía y justicia - Venezuela - Caribe continental
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[2]
+
+
+-={Concordancia}=-
+
+
+uso de programas gestionadores de claves. Mediante una contraseña maestra, permiten el acceso a todas las demás que posea su empresa. Pensando un poco, los riesgos son muchos. Al ser un software más, puede volverse el propio blanco principal de ataques, y además ya sólo sería necesario conocer una sola clave que daría vía libre a todas las demás. Centralizar la seguridad en un solo punto no ayuda más que al pirata
+
+
+-={Referencia bibliográfica}=-
+
+
+Santos, Sergio de los: ´Verdades y mentiras sobre las contraseñas'. El Mundo. Madrid: elmundo.es/navegante/2002/03/27/seguridad/1017226173.html, 2002-03-27.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias y tecnología - España - Divulgación.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[3]
+
+
+-={Concordancia}=-
+
+
+que a mi tumba le pongan una losa sino un cristal, aunque sea de fondo de botella; así los diarios podrán reportar cómo evoluciona la descomposición del héroe patrio: ha dejado de ser el gordo Comodoro para volverse el esbelto Comodoro; hoy perdió un mechón de cabello, hoy se asoman los primeros huesos de su tórax, hoy cayó una falange, ahora podemos comprobar que su esqueleto se halla a la par del de los más prestigiados
+
+
+-={Referencia bibliográfica}=-
+
+
+Toscana, David: El ejército iluminado. Barcelona: Tusquets Editores, 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+

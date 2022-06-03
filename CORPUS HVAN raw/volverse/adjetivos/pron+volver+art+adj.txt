@@ -1,0 +1,557 @@
+
+
+						Corpus del Español del Siglo XXI (CORPES)
+
+
+							    14/03/2018 - 11:06:11
+
+
+
+--------------------------------------------------------------- MODO DE CITA ---------------------------------------------------------------
+
+
+  REAL ACADEMIA ESPAÑOLA: Banco de datos (CORPES XXI) [en línea]. Corpus del Español del Siglo XXI (CORPES). <http://www.rae.es> [14/03/2018]
+
+
+
+================================================================= CONSULTA =================================================================
+
+
+  LEMA = {volver}
+
+  CLASE DE PALABRA = {verbo}
+
+
+ Proximidad
+ ----------
+
+  [IZQUIERDA] [DISTANCIA = 1]
+
+    CLASE DE PALABRA = {pronombre personal}
+
+
+  [DERECHA] [DISTANCIA = 1]
+
+    CLASE DE PALABRA = {artículo}
+
+
+  [DERECHA] [DISTANCIA = 2]
+
+    CLASE DE PALABRA = {adjetivo}
+
+
+================================================================ RESULTADOS ================================================================
+
+[1]
+
+
+-={Concordancia}=-
+
+
+y sentía aquella gran desazón en el alma, no había duda que no se había muerto aun, y quiso sonreír, pero sólo fue para sus adentros, porque los labios no se movieron, y de nuevo le volvió la espantosa sensación que le causaba la aprehensión de continuar enfermo y amarrado en aquella fría cama metálica de la policlínica estatal.
+
+
+-={Referencia bibliográfica}=-
+
+
+Bondy Reyes, Ernesto: ´GRAMÁTICA 2000 A LA MENOS UNO'. Viaje de retorno, hasta Sabina y otros relatos. Tegucigalpa: Iberoamericana, 2001.
+
+
+-={Clasificación CORPES}=-
+
+
+2001. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - Honduras - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[2]
+
+
+-={Concordancia}=-
+
+
+No esperamos mucho pues pronto se volvieron los principales. Volvieron y vieron si estaban buenos los filos del machete y la palabra. Dijeron luego:
+
+
+-={Referencia bibliográfica}=-
+
+
+Subcomandante Marcos: Los del color de la tierra. Textos insurgentes desde Chiapas. Tafalla (Navarra): Txalaparta, 2001.
+
+
+-={Clasificación CORPES}=-
+
+
+2001. Criterio: Primera edición.
+No ficción - Escrito - Libro - Política, economía y justicia - México - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[3]
+
+
+-={Concordancia}=-
+
+
+que prevalecen en los tres primeros y que, en mi opinión, son las que mejor definen esta obra en la que la imaginación es más poderosa que la historia para conocer la historia misma y el lenguaje se vuelve el verdadero protagonista del relato.
+
+
+-={Referencia bibliográfica}=-
+
+
+Celorio, Gonzalo: Ensayo de contraconquista. México D.F.: Tusquets Editores, 2001.
+
+
+-={Clasificación CORPES}=-
+
+
+2001. Criterio: Primera edición.
+No ficción - Escrito - Libro - Ciencias sociales, creencias y pensamiento - México - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[4]
+
+
+-={Concordancia}=-
+
+
+a él, no podemos desentendernos de que, sin ningún deseo o designio de nuestra parte, la guerra nos ha acarreado nuevos deberes y responsabilidades con los que habremos de vérnoslas y cumplir a medida que nos volvemos la gran nación en cuyo crecimiento y trayectoria el Rector de las Naciones ha escriturado claramente desde el principio el mando supremo y la promesa de las civilizaciones'.
+
+
+-={Referencia bibliográfica}=-
+
+
+Orozco, José Luis: De teólogos, pragmáticos y geopolíticos. Aproximación al globalismo norteamericano. Barcelona: Gedisa, 2001.
+
+
+-={Clasificación CORPES}=-
+
+
+2001. Criterio: Primera edición.
+No ficción - Escrito - Libro - Política, economía y justicia - México - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[5]
+
+
+-={Concordancia}=-
+
+
+Le vuelve el trasero al señor Curling y se retira. El dueño del negocio menea su gran cabeza.
+
+
+-={Referencia bibliográfica}=-
+
+
+Fernández Leandro, Jaime: Ardiente Caribe. San José: Editorial Universidad Estatal a Distancia, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Costa Rica - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[6]
+
+
+-={Concordancia}=-
+
+
+, y comprar una paleta de hielo y unos dulces. Regresaba lo más rápido posible a alcanzarte y seguirte el paso, y para que me perdonaras, te convidaba de lo que había comprado, pero te volvía lo caprichuda y me rechazabas otra vez, Gaby, como siempre. No querías ni mirarme, me considerabas parte de los otros. Aventabas la paleta o los dulces sin detener tu camino, sin hacer ni
+
+
+-={Referencia bibliográfica}=-
+
+
+Alvarado, Jesús: Bajo el disfraz (los cantares prohibidos). México D. F.: Fondo Editorial Tierra Adentro, Conaculta, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+Notas: Premio Binacional de Novela Joven Frontera de Palabras 2002.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[7]
+
+
+-={Concordancia}=-
+
+
+Así el Estado mexicano se vuelve la única institución legal y juridica que fomenta el canon tradicional de los roles sociales del hombre y la mujer a través del matrimonio. Melchor Ocampo, congresista y político durante el período de la Reforma y el gobierno de Juárez,
+
+
+-={Referencia bibliográfica}=-
+
+
+Galindo, Jorge Luis: El cine mexicano en la novela mexicana reciente (1967-1990). Madrid: Pliegos, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+No ficción - Escrito - Libro - Artes, cultura y espectáculos - México - México y Centroamérica - Divulgación.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[8]
+
+
+-={Concordancia}=-
+
+
+como si los conociera de toda la vida, como si fueran gente suya, muy cercana, carne de su carne. Al muchacho le entra tos, y las chicas se ríen de él, hasta que se le pasa y le vuelve la ancha sonrisa: una de ellas le besa la cabezota. A Consuelo la escena la conmueve, y se llena de emoción, casi se le saltan las lágrimas. Súbitamente comprende hasta qué punto había perdido el
+
+
+-={Referencia bibliográfica}=-
+
+
+García Montalvo, Pedro: Retrato de dos hermanas. Barcelona: Destino, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[9]
+
+
+-={Concordancia}=-
+
+
+Entre los elementos principales a considerar en la problemática de la seguridad hemisférica, están el rol hegemónico de Estados Unidos, que se vuelve el principal diseñador de conceptos y políticas de seguridad en el continente. Uno de los problemas más importantes es que la jerarquía de las amenazas varía de acuerdo a las subregiones (por ejemplo, en el Caribe, los países
+
+
+-={Referencia bibliográfica}=-
+
+
+Benítez Manaut, Raúl: ´Defensa y seguridad hemisférica. Hacia el siglo XXI: el desafío de la cooperación multinacional'. Seguridad hemisférica. Debates y desafíos. México D. F.: CISAN-UNAM, 2005.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+No ficción - Escrito - Libro - Política, economía y justicia - México - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[10]
+
+
+-={Concordancia}=-
+
+
+diferente. Desde el primer momento, los profesores observaron que su formación era distinta a la de los demás. El venía de estudiar tres años en el lugar de Nicaragua que tiene la mejor educación y formación. De inmediato, se volvió el mejor alumno de la clase. Ser el mejor tenía sus desventajas también. Eso le hacía no pasar desapercibido por los maestros y la dirección. Desde el inicio, Félix Pedro, un compañero de clase y también
+
+
+-={Referencia bibliográfica}=-
+
+
+Calderón, Esthela: 8 caras de una moneda. León: Editorial Universitaria, UNAN-León, 2006.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Nicaragua - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[11]
+
+
+-={Concordancia}=-
+
+
+En estos primeros comicios sin la figura de la "plancha nacional", queda la incertidumbre sobre si habrán más posibilidades para diputados por residuos a nivel nacional, o si San Salvador se vuelve el gran premio por el considerable aumento en su número de legisladores.
+
+
+-={Referencia bibliográfica}=-
+
+
+Torres, Eduardo: ´Análisis. La bolsa o la vida'. El Diario de Hoy. San Salvador: elsalvador.com, 2006-01-09.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Política, economía y justicia - El Salvador - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[12]
+
+
+-={Concordancia}=-
+
+
+Casi la única debilidad de esta falsificación es el papel; la constatación al tacto se vuelve la mejor herramienta para identificarlos. Las autoridades advierten a la población ya que se estima que hay varios miles aún en circulación o que los estafadores podrían intentar "pasarlos".
+
+
+-={Referencia bibliográfica}=-
+
+
+´Advierten circulación de billetes falsos de U$S 100. Son "buenas" imitaciones, pero reconocibles al tacto. Se estima que hay varios miles que están en circulación'. El País digital. Montevideo: elpais.com.uy, 2006-08-21.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Política, economía y justicia - Uruguay - Río de la Plata
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[13]
+
+
+-={Concordancia}=-
+
+
+Poder que para desempeñarse de acuerdo con las características prescritas, debe estar compuesto por jueces capacitados y aislados e independientes del poder político que tomen decisiones sin presiones. La independencia, respecto de los otros poderes del Estado, se vuelve el principal atributo deseable de este Poder Judicial en un régimen democrático.
+
+
+-={Referencia bibliográfica}=-
+
+
+Ansolabehere, Karina: La política desde la justicia. Cortes supremas, gobierno y democracia en Argentina y México. México D.F.: Fontamara, 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+No ficción - Escrito - Libro - Política, economía y justicia - México - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[14]
+
+
+-={Concordancia}=-
+
+
+A Sofía, esas teorías que explicaba Germán, le resultaban un poco pesadas; sin embargo, se volvió la principal entusiasta del Cine Club. Tanto que, a pesar de carecer de dinero, celuloide y cámara filmadora, les propuso imaginarse, en Tacuarembó, una película que demostrara lo que pensaban y favoreciera el cambio deseado.
+
+
+-={Referencia bibliográfica}=-
+
+
+Ferreira, Nelson: Luciérnagas en un frasco. Montevideo: Alfaguara, 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Uruguay - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[15]
+
+
+-={Concordancia}=-
+
+
+'Aquello se volvió la peor de las pesadillas. Por la noche, no podía descansar por la bulla de Capitán, y de día, tenía que trabajar como una mula y aguantar los regaños del sastre y su mujer, que cada vez estaban
+
+
+-={Referencia bibliográfica}=-
+
+
+Orlando Rodríguez, Antonio: Chiquita. Madrid: Santillana Ediciones Generales, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Cuba - Antillas - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[16]
+
+
+-={Concordancia}=-
+
+
+había expresado su deseo de estudiar agronomía en la escuela de Chapingo, allá cerca del Distrito Federal. Sus tíos no mostraban entusiasmo ante la idea de perderlo por unos años, quizá para siempre, aunque podía hacerlo volver la escasa decena de hectáreas de tierra roja escriturada a su nombre por su padre, José Barba, antes de desaparecer en Chiapas atraído por un magnífico empleo. …sa era una bifurcación del camino. El apellido Mijares lo tenía
+
+
+-={Referencia bibliográfica}=-
+
+
+González de Alba, Luis: Otros días, otros años. México D. F.: Planeta, 2008.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[17]
+
+
+-={Concordancia}=-
+
+
+Así, ahora el mundo está hecho de materia y nada más. De ser un co-principio de la sustancia, la materia inerte se vuelve la única sustancia, el único modelo de sustancia en el universo. De lo único que se habla en relación con ella, en todo caso, es de propiedades de la misma materia, más no de algún otro principio esencial que
+
+
+-={Referencia bibliográfica}=-
+
+
+Ochoa, Roberto: Muerte al Leviatán: principios para una política desde la gente. México D. F.: Jus, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+No ficción - Escrito - Libro - Política, economía y justicia - México - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[18]
+
+
+-={Concordancia}=-
+
+
+foro de Internet y descubrió que existían chicas que ofrecían sus óvulos por dinero. Soy a la que Alelí, una chica rubia de 20 años que limpiaba una escalera, llamó para ofrecer sus óvulos y así se volvió la última esperanza para que mi árbol genealógico no se convirtiera en una ramita seca. A cambio de los óvulos de Alelí, el hospital me dio otros de una mujer anónima. Antes de todo esto yo me sentía como una gallina vieja empollando
+
+
+-={Referencia bibliográfica}=-
+
+
+Wiener, Gabriela: Nueve lunas. Barcelona: Random House Mondadori, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Perú - Andina - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[19]
+
+
+-={Concordancia}=-
+
+
+Estamos trabajando duro en el restaurante. A mí me tocó la cocina, pero el jueves me volvió la famosa gota, que hacía tiempo no me daba en Chile. El sábado y el domingo llegué a ver burros verdes; me dio más fuerte que nunca. Hoy lunes el patrón se llevó a trabajar a
+
+
+-={Referencia bibliográfica}=-
+
+
+Kúsulas, Alexandra: La hija de Ari. Santiago de Chile: Alfaguara, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[20]
+
+
+-={Concordancia}=-
+
+
+del anonimato o de su acaecer. Sesma lo vuelve acontecimiento, lo hace visible, no cotidiano, no banal, no fortuito. Cambiar la función, tomar a contrapelo el objeto cotidiano significa fundar un extrañamiento que se vuelve el nuevo valor en cuanto determina un cambio de signo &mdash;una verdadera mutación&mdash; con referencia a su valor de uso inicial. El mingitorio de Duchamp toma el título de Fuente designando así un movimiento diferente: no el objeto que
+
+
+-={Referencia bibliográfica}=-
+
+
+Calderón, Eligio: ´La cena delle ceneri'. Elementos. Ciencia y Cultura. Puebla: elementos.buap.mx, 2009-01.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias y tecnología - México - México y Centroamérica
+
+Notas: Periodicidad: trimestral.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[21]
+
+
+-={Concordancia}=-
+
+
+una red de galerías motivada por un auge del comercio del arte. Este fenómeno era impulsado por la afluencia de extranjeros: corresponsales de prensa, miembros de cuerpos de socorro, militares estadounidenses, muchos de ellos se volvieron los principales compradores. Además, con el conflicto, los coleccionistas nacionales inviertan en obras de arte ante la inseguridad de otros bienes.
+
+
+-={Referencia bibliográfica}=-
+
+
+´Los primeros intentos [segunda entrega]'. DiarioCoLatino.com. Tresmil. San Salvador: diariocolatino.com, 2009-07-11.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - El Salvador - México y Centroamérica
+
+Notas: Periodicidad: semanal.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+

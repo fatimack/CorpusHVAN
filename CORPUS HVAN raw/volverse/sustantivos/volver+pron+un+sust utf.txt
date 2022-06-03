@@ -1,0 +1,4454 @@
+
+
+						Corpus del Español del Siglo XXI (CORPES)
+
+
+							    29/03/2016 - 12:02:16
+
+
+
+--------------------------------------------------------------- MODO DE CITA ---------------------------------------------------------------
+
+
+  REAL ACADEMIA ESPAÑOLA: Banco de datos (CORPES XXI) [en línea]. Corpus del Español del Siglo XXI (CORPES). <http://www.rae.es> [29/03/2016]
+
+
+
+================================================================= CONSULTA =================================================================
+
+
+  LEMA = {volver}
+
+  CLASE DE PALABRA = {verbo}
+
+
+ Subcorpus
+ ---------
+
+  ORIGEN = {(Todos)}
+
+
+ Proximidad
+ ----------
+
+  [DERECHA] [DISTANCIA = 1]
+
+    FORMA = {te}
+
+    CLASE DE PALABRA = {pronombre personal}
+
+
+  [DERECHA] [DISTANCIA = 3]
+
+    CLASE DE PALABRA = {sustantivo}
+
+
+  [DERECHA] [INTERVALO = 2]
+
+    FORMA = {un}
+
+
+================================================================ RESULTADOS ================================================================
+
+[1]
+
+
+-={Concordancia}=-
+
+
+La mujer.- Deberías volverte un poeta, Antonio. Te está aflorando tu vena lírica.
+
+
+-={Referencia bibliográfica}=-
+
+
+Romero Rey, Sandro: ´Nuestra señora de los Remedios'. Prada Prada, Jorge [comp.]: Dramaturgos en la ASAB. Colombia: Alcaldía Mayor de Bogotá, Instituto Distrital de Cultura y Turismo, Academia Superior de Artes de Bogotá (ASAB)-Universidad Distrital Francisco José de Caldas, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Fecha de escritura.
+Ficción - Escrito - Libro - Teatro - Colombia - Caribe continental - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[2]
+
+
+-={Concordancia}=-
+
+
+-Tendrás que volverte un conspirador.
+
+
+-={Referencia bibliográfica}=-
+
+
+Trujillo Muñoz, Gabriel: Trenes perdidos en la niebla. México, D. F.: Jus, 2010.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[3]
+
+
+-={Concordancia}=-
+
+
+posiblemente deje los escrúpulos a un lado. Mucho prestigio suele esfumarse en cuanto se apagan los reflectores y se descubre que la conducta del prestigioso no tiene bases éticas firmes. Albert Einstein dijo alguna vez: "Intenta no volverte un hombre de éxito, sino convertirte en un hombre de valor". Al final del camino, un hombre de valor podrá decir, con fundamento, que tuvo una vida exitosa. Nada tendrán que ver los
+
+
+-={Referencia bibliográfica}=-
+
+
+Sinay, Sergio: ´El éxito silencioso'. Lanacion.com. Buenos Aires: lanacion.com.ar, 2011-09-11.
+
+
+-={Clasificación CORPES}=-
+
+
+2011. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - Argentina - Río de la Plata
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[4]
+
+
+-={Concordancia}=-
+
+
+Hay que tener alma de payaso, desfigurarse a carcajadas para no sufrir, tener una percepción subjetiva a través de la risa, aprender a no sufrir sin volverte un monstruo, aprender a no sufrir sin desarrollar un rictus, aprender a no sufrir, sin volverse una mala persona.
+
+
+-={Referencia bibliográfica}=-
+
+
+Carmona, Álvaro: ´Somalía'. De la Maza Cabrera, Lucía [coord.]: XIV y XV Muestra de Dramaturgia Nacional. Santiago de Chile: Consejo Nacional de la Cultura y las Artes, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Fecha de estreno.
+Ficción - Escrito - Libro - Teatro - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+						Corpus del Español del Siglo XXI (CORPES)
+
+
+							    29/03/2016 - 12:00:46
+
+
+
+--------------------------------------------------------------- MODO DE CITA ---------------------------------------------------------------
+
+
+  REAL ACADEMIA ESPAÑOLA: Banco de datos (CORPES XXI) [en línea]. Corpus del Español del Siglo XXI (CORPES). <http://www.rae.es> [29/03/2016]
+
+
+
+================================================================= CONSULTA =================================================================
+
+
+  LEMA = {volver}
+
+  CLASE DE PALABRA = {verbo}
+
+
+ Subcorpus
+ ---------
+
+  ORIGEN = {(Todos)}
+
+
+ Proximidad
+ ----------
+
+  [DERECHA] [DISTANCIA = 1]
+
+    FORMA = {se}
+
+    CLASE DE PALABRA = {pronombre personal}
+
+
+  [DERECHA] [DISTANCIA = 3]
+
+    CLASE DE PALABRA = {sustantivo}
+
+
+  [DERECHA] [INTERVALO = 2]
+
+    FORMA = {una}
+
+
+================================================================ RESULTADOS ================================================================
+
+[1]
+
+
+-={Concordancia}=-
+
+
+Otro hombre habría lanzado a Neruda por la ventana: en el patio clausurado, iría adelgazando hasta volverse una mata de pelos grises cubiertos de moscas verdes y de gusanos.
+
+
+-={Referencia bibliográfica}=-
+
+
+Fogwill, Rodolfo Enrique: En otro orden de cosas. Barcelona: Mondadori, 2001.
+
+
+-={Clasificación CORPES}=-
+
+
+2001. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[2]
+
+
+-={Concordancia}=-
+
+
+sentido de justicia... Ojo por ojo, diente por diente... ¿Pero quién es capaz de concebir una venganza en una dimensión semejante? ¿Puede uno torturar con la misma crueldad con que ha sido torturado sin volverse una bestia humana? Y, después, ¿qué?... ¿Cómo se vuelve de la bestialidad? Una vez que la necesidad de venganza ha sido satisfecha, ¿qué queda?... El mismo vacío
+
+
+-={Referencia bibliográfica}=-
+
+
+Diament, Mario: Esquirlas. Buenos Aires: celcit.org.ar, 2013-02-27.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Fecha de estreno.
+Ficción - Escrito - Libro - Teatro - Argentina - Río de la Plata - Ficción.
+
+Notas: Fecha de publicación: fecha de descarga del texto fuente.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[3]
+
+
+-={Concordancia}=-
+
+
+-Ahora estamos en el mismo bando -sonrió, y el bigotito se onduló hasta volverse una lombriz-. Bien, sé que no todos por las mismas razones, pero ya ve: colegas a la fuerza. Pídame lo que necesite, no tenga reparo. Creo que es buen momento
+
+
+-={Referencia bibliográfica}=-
+
+
+Ruiz, Luis Manuel: Obertura francesa. Madrid: Santillana, 2002.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[4]
+
+
+-={Concordancia}=-
+
+
+La sistematización de experiencias es un requerimiento que atraviesa al conjunto de los movimientos populares, y puede volverse una fuente fértil de análisis, autorreconocimiento, identidad, memoria, y de creación colectiva de conocimientos.
+
+
+-={Referencia bibliográfica}=-
+
+
+´Paulo Freire en el cruce de caminos'. Caminos. Ciudad de la Habana: cubaliteraria.com, 2002-03-03.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - Cuba - Antillas
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[5]
+
+
+-={Concordancia}=-
+
+
+De allí que la UPS, manejando resultados por problemas, tendría que volverse una unidad con capacidad de administración y por ende con el personal que respondiera al perfil, que una política de ese tipo demandaba.
+
+
+-={Referencia bibliográfica}=-
+
+
+Chávez Borjas, Manuel: Trayectoria del sector salud. Tegucigalpa: Programa de las Naciones Unidas para el Desarrollo (PNUD), 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+No ficción - Escrito - Libro - Salud - Honduras - México y Centroamérica - Académico.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[6]
+
+
+-={Concordancia}=-
+
+
+Usos Por ser una planta tolerante tanto al sol como a la sombra es ornamental y usada en muchas partes del mundo. Puede volverse una maleza en algunos lugares. Entre los usos populares que se le ha dado a esta planta está el de colocar emplastos de las hojas para tratar afecciones de la piel y boca. También la decocción de
+
+
+-={Referencia bibliográfica}=-
+
+
+MacVean, Ana Lucrecia: Plantas útiles de Petén, Guatemala. Ciudad de Guatemala: Universidad del Valle de Guatemala, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+No ficción - Escrito - Libro - Ciencias y tecnología - Guatemala - México y Centroamérica - Académico.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[7]
+
+
+-={Concordancia}=-
+
+
+Leroy, de pronto, fue víctima de una suspensión interior. El entendió que ella lo había mirado durante una fracción de segundo, al volverse una vez más hacia la pista del rock y verla marchar de forma imprevista, según indicaba lo agitado de sus pasos, acompañada por dos amigos. Todo fue tan rápido que a Leroy sólo le quedaba
+
+
+-={Referencia bibliográfica}=-
+
+
+Ibáñez, Sael: Vivir atemoriza. Caracas: Monte Ávila Editores Latinoamericana, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Venezuela - Caribe continental - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[8]
+
+
+-={Concordancia}=-
+
+
+Cuando Aleida tenía poco más de treinta años, su tercer hijo enfermó y nunca antes había tenido la desesperación tan cerca. Hizo miles de promesas de volverse una cierva de su hijo, sin embargo tenía constantemente un cargo de conciencia muy grande, por no haber podido serlo hasta ese momento. Lo que las personas en el hospital le celebraban era motivo de vergüenza
+
+
+-={Referencia bibliográfica}=-
+
+
+García Martín, Gisela: Nunca Podré Olvidarte. Madrid: Editorial Betania, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Cuba - Antillas - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[9]
+
+
+-={Concordancia}=-
+
+
+Allí coincidimos y estuvimos muy cerca uno del otro por primera vez. Y lo que hasta ese momento habían sido miradas furtivas hubo de volverse una cercanía inevitable. Es decir, quedamos ubicados de frente y muy cerca. A su lado, la anciana que siempre la acompañaba; detrás de mí, el instructor. Entonces tuve que verla directamente, a menos que escurriera
+
+
+-={Referencia bibliográfica}=-
+
+
+Barrera Linares, Luis: ´SOBRE LA PISTA'. Cuentos EN-RED-@-DOS. Caracas: Editorial ficticia La Duda Melódica, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - Venezuela - Caribe continental - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[10]
+
+
+-={Concordancia}=-
+
+
+Hay que truquear; volverse una bola pequeña miope; mojarse hasta dentro de los oídos y por debajo de los párpados, para descansar. El agua está muda. Se ha llenado del polvo triste con que se nos llenan los días en la
+
+
+-={Referencia bibliográfica}=-
+
+
+Indiana Hernández, Rita: La estrategia de Chochueca. San Juan: Isla Negra, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - República Dominicana - Antillas - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[11]
+
+
+-={Concordancia}=-
+
+
+discreta, cuidando de no dejar ninguna pista innecesaria. Los momentos más indicados para escaparnos hasta el pueblo sin que nadie en Villa Cárdena se diese cuenta eran los de la siesta, cuando la calor apretaba hasta volverse una especie de ruido de fondo que se confundía con el canto de las cigarras. La casa quedaba en esos instantes como en letargo, hundida en sus propias sombras, y mi primo José Manuel y yo aprovechábamos
+
+
+-={Referencia bibliográfica}=-
+
+
+Cela Conde, Camilo José: Como bestia que duerme. Madrid: Alianza Editorial, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+Notas: IV premio de novela Fernando Quiñones.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[12]
+
+
+-={Concordancia}=-
+
+
+aguda pluma, Brecht "pinta" el progresivo acaparamiento de la mano de obra para la industria bélica, los métodos utilizados por el régimen para detectar a los disidentes, el miedo hacia una hija que de un momento a otro puede volverse una soplona o la maquinaria propagandística que vende, a toda costa, la idea del mejor régimen posible. En definitiva, el desmantelamiento del tejido moral y social en beneficio del totalitarismo ideológico.
+
+
+-={Referencia bibliográfica}=-
+
+
+´La fuerza del lenguaje corporal'. La Prensa Gráfica. San Salvador: Grupo Dutriz, 2003-11-20.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - El Salvador - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[13]
+
+
+-={Concordancia}=-
+
+
+de la derecha. Su rostro ajado, la camisa de puños raídos y sus anticuados lentes de montura plástica imitación carey lo convierten en el candidato ideal. Durante varios meses, este sujeto habría frecuentado el café con el objetivo de volverse una cara conocida entre los meseros y los parroquianos. Miró con interés las partidas hasta que, finalmente, los jugadores decidieron invitarlo a participar en ellas.
+
+
+-={Referencia bibliográfica}=-
+
+
+Pérez, Luis Bernardo: ´De espías y viajeros. Café Brindisi'. Café brindisi y otros espacios imaginarios. Guanajuato: La Rana, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[14]
+
+
+-={Concordancia}=-
+
+
+En la casona de Jobson-Vera, donde había nacido hacia 1925, padres y hermanos se olvidaban de ella, no porque quisieran sino por el empeño que ponía en ser olvidada, en volverse una mancha incolora, filigrana imperceptible del suelo o las paredes. Las maestras de la escuela solían calificarla con notas altas, pero decían que era como una prolongación del banco de clase: apagada, quieta
+
+
+-={Referencia bibliográfica}=-
+
+
+´AVES EX”TICAS'. Roffé, Reina: Aves exóticas. Cinco cuentos con mujeres raras. Buenos Aires: Leviatan, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[15]
+
+
+-={Concordancia}=-
+
+
+a solas, con deleite egoísta, aquel dolor. No tomaría calmantes por la eternidad, ni siquiera por los años que le quedaban de vida, que serían muchos -supuso con certidumbre y lo deseó fervientemente-, hasta volverse una anciana, con el recuerdo de la pequeña Lucía y el dolor de su temprana muerte acompañándola, haciendo jirones de su corazón. Seguro que con el tiempo todos morirían antes que ella: primero su
+
+
+-={Referencia bibliográfica}=-
+
+
+Zepeda, René: Como la araña en el rincón. Tegucigalpa: Editorial Universitaria, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Honduras - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[16]
+
+
+-={Concordancia}=-
+
+
+un tubérculo atrofiado, informe. Como larva de zafacón se regodea en la inmundicia, amarillo de nicotina y cocido en sudores añejos. Quisiera dejarse consumir igual que el cigarrillo que lo fuma, permanecer inmóvil y volverse una piedra o encenderse como una pira de gelatinoso colesterol.
+
+
+-={Referencia bibliográfica}=-
+
+
+Font Acevedo, Francisco: ´Caleidoscopio'. Caleidoscopio. San Juan: Isla Negra, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - Puerto Rico - Antillas - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[17]
+
+
+-={Concordancia}=-
+
+
+aún más de la importancia de la prevención y la educación de los ciudadanos para estos siniestros. En las torres murieron muchos compañeros y algunos íntimos amigos míos. Cuando uno acude a más de cien funerales es fácil volverse una persona agria y pesimista. Yo recurrí muy seguido a la fe. Eso me mantuvo de pie. Desde la tragedia, la fe es una parte muy importante de mi trabajo.
+
+
+-={Referencia bibliográfica}=-
+
+
+Bastitta, Francisco: ´De jefes de bomberos a héroes populares'. Lanacion.com. Buenos Aires: lanacion.com.ar, 2004-11-01.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Actualidad, ocio y vida cotidiana - Argentina - Río de la Plata
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[18]
+
+
+-={Concordancia}=-
+
+
+Todo eso existe, pero el hecho es que las creencias tienden a volverse una verdad aceptada de la que se puede sacar provecho y se fortalecen incluso hasta por comodidad para que no alteren la visión del mundo con la que se piensa y con la que se actúa, y también acaban
+
+
+-={Referencia bibliográfica}=-
+
+
+Bendesky, León: ´Por dentro'. La Jornada. México D. F.: lajornada.unam.mx, 2004-08-16.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Política, economía y justicia - México - México y Centroamérica - Opinión.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[19]
+
+
+-={Concordancia}=-
+
+
+No sigamos pensando en chiquito. La capital hace tiempo que dejó de ser un pueblón, para volverse una metrópoli de tres millones de habitantes que usan agua, producen cantidades enormes de basura, requieren muchísimos metros cuadrados de estacionamiento, como de áreas comerciales y recreación, vías de comunicación sin los atoramientos que a toda hora
+
+
+-={Referencia bibliográfica}=-
+
+
+Cáceres Barrios, Francisco: ´¡No más parches por favor!'. La Hora. Guatemala: lahora.com.gt, 2005-12-08.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Actualidad, ocio y vida cotidiana - Guatemala - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[20]
+
+
+-={Concordancia}=-
+
+
+las manos. ¿Qué? Un mero parecido. Volví a escudriñarla y deseché la idea. Ese día regresaba a París. Los dos meses que estuve sin volver a Londres aquella sospecha me estuvo rondando hasta volverse una idea fija. ¿Podía ser que la ex chilenita, la ex guerrillera, la ex madame Arnoux, estuviera ahora en Newmarket? Me lo pregunté muchas veces, acariciando entre los dedos la escobillita Guerlain
+
+
+-={Referencia bibliográfica}=-
+
+
+Vargas Llosa, Mario: Travesuras de la niña mala. Madrid: Alfaguara, 2006.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Perú - Andina - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[21]
+
+
+-={Concordancia}=-
+
+
+por el halago y levantó los hombros, como diciendo: ¿y yo qué puedo hacer? ¡Un hombre no es responsable de esas cosas! Si no hubiera estado haciendo su investigación sobre los múltiples modos de volverse una mujer ilustre habría tenido que dejar pasar la carta, sin remedio. Hay acuerdos tácitos que no pueden romperse en una pareja, aunque de hecho se rompan. Faltar al pacto de respeto a la libertad
+
+
+-={Referencia bibliográfica}=-
+
+
+Beltrán, Rosa: Alta infidelidad. México D. F.: Alfaguara, 2011.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[22]
+
+
+-={Concordancia}=-
+
+
+buenas si uno las sabe ver. Y más que ver, mirar. Pero tanto se empecina uno, que no se permite ver la verdad del otro, y todas son verdades absolutas; sin embargo, todo parece volverse una comedia de enredos que deriva en intolerancia.
+
+
+-={Referencia bibliográfica}=-
+
+
+Miguens, Silvia: La baronesa del tango. Buenos Aires: Editorial Sudamericana, 2006.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[23]
+
+
+-={Concordancia}=-
+
+
+LINDA: Al que lo traicionen sus nervios, también, que esto no puede volverse una valla de gallos.
+
+
+-={Referencia bibliográfica}=-
+
+
+Medina, Yoshvani: ¡Merde!. s. l.: s. n., 2006.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+Ficción - Escrito - Libro - Teatro - Cuba - Antillas - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[24]
+
+
+-={Concordancia}=-
+
+
+y yo crecimos juntos. Aunque él pasaba la mayor parte del tiempo en Madrid mientras yo seguía mis estudios en Ribanova, solíamos coincidir en la época de vacaciones escolares. Además, las desapariciones de Zachary West acabaron volviéndose una costumbre, y un par de veces al año, de forma intempestiva, telegrafiaba a mis padres para avisarles de su llegada. Todos sabíamos lo que eso quería decir: que Elijah aparecería en plena
+
+
+-={Referencia bibliográfica}=-
+
+
+Rivera de la Cruz, Marta: En tiempo de prodigios. Barcelona: Planeta, 2006.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[25]
+
+
+-={Concordancia}=-
+
+
+fue un improvisado ni un intuitivo, sino un estudioso que se inició con la música clásica. A los 74 años, cuando murió, había recorrido un camino similar al que más tarde seguiría Roberto Goyeneche: terminó por volverse una leyenda instalada en los oídos de las nuevas generaciones, que se acercaron al tango a través de su voz.
+
+
+-={Referencia bibliográfica}=-
+
+
+Micheletto, Karina: ´El recuerdo para un milonguero de ley'. Página/12. Rosario: pagina12.com.ar, 2006-01-17.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - Argentina - Río de la Plata
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[26]
+
+
+-={Concordancia}=-
+
+
+el que la camarera de un restaurant describe los platos del menú a una pareja y resulta que todos los platos contienen spam. Por ejemplo, spam con salchichas y spam, spam con huevo, spam y spam, volviéndose una repetición sin fin de texto de muy poco valor. Así el spam termina por tapar a todo el resto como sucede con el correo electrónico. La naturaleza del spam ha ido mutando desde sus inicios como
+
+
+-={Referencia bibliográfica}=-
+
+
+´La basura se renueva'. El País digital. Tecno. Montevideo: elpais.com.uy/suple/tecno, 2006-09-15.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias y tecnología - Uruguay - Río de la Plata
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[27]
+
+
+-={Concordancia}=-
+
+
+"La decisión de Dell de eliminar los químicos dañinos de sus productos es un paso de la industria electrónica en la dirección correcta, para volverse una industria limpia y atenta a las preocupaciones de los consumidores", comenta Marisa Jacott, coordinadora de la Campaña de Tóxicos de Greenpeace México.
+
+
+-={Referencia bibliográfica}=-
+
+
+Aguilar Ortiz, Luis: ´A favor de la ecología'. El Universal.com.mx. Computación. México D. F.: eluniversal.com.mx, 2006-07-03.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias y tecnología - México - México y Centroamérica
+
+Notas: Periodicidad: semanal.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[28]
+
+
+-={Concordancia}=-
+
+
+ser tan grande que, efectivamente, se manifestan los síntomas ordinarios de tal o cual enfermedad. Y lo que existe es una enfermedad mental que tiene que ver con neurosis, fobia, depresión, la cual puede volverse una obsesión compulsiva. Es un círculo que no es posible romper al conocer la no enfermedad, porque la duda y el temor siempre están presentes en el hipocondríaco. En algunas ocasiones llegan al paraxismo de pensar
+
+
+-={Referencia bibliográfica}=-
+
+
+Picado Valle, Francisco: ´¿Es usted hipocondríaco?'. El Nuevo Diario.com.ni. Salud y Sexualidad. Managua: elnuevodiario.com.ni/suplemento/saludysexualidad, 2006-04-07.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Salud - Nicaragua - México y Centroamérica - Divulgación.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[29]
+
+
+-={Concordancia}=-
+
+
+la carreta, cuentan hasta diez y se lanzan a toda velocidad detrás de mí, siempre hacia el frente, sin voltear atrás. Yo limpiaré el camino de enemigos con mi bayoneta; ustedes pinchen a la mula porque tendrá que volverse una gacela para alcanzarme. Entonces, lejos del peligro, me trepo a la carreta y no habrá alma que nos atrape. ¿Están de acuerdo con el plan? ¿Lo comprendieron? Matus los mira
+
+
+-={Referencia bibliográfica}=-
+
+
+Toscana, David: El ejército iluminado. Barcelona: Tusquets Editores, 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[30]
+
+
+-={Concordancia}=-
+
+
+la espuma pensé en mi madre, en lo que había sido y en lo que se había convertido, en lo que mi padre me había dicho sobre ella en el avión, en la capacidad del placer para volverse una tortura, en mi propia capacidad para dejar pasar mi vida sin atreverme a entrar en ella.
+
+
+-={Referencia bibliográfica}=-
+
+
+Rodríguez, Sergio: Canto rodado. Madrid: Castalia, 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+Notas: IX Premio Tiflos de Novela.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[31]
+
+
+-={Concordancia}=-
+
+
+La paradoja es que, semanas más tarde, estas trampas anticamión se desintegran en polvo volátil. El viento socava el camino y éste va quedando como enterrado en el relieve. Inevitablemente, al volverse una cubeta, acumulará aún más agua con la lluvia siguiente.
+
+
+-={Referencia bibliográfica}=-
+
+
+Arias, Daniel: ´Un material convierte barro en asfalto'. Lanación.com. Buenos Aires: lanacion.com.ar, 2007-05-28.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias y tecnología - Argentina - Río de la Plata
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[32]
+
+
+-={Concordancia}=-
+
+
+datos revelan la importancia e impacto que puede tener la participación de las Mypes y organizaciones comunitarias en el mercado de contrataciones públicas, no solamente para obras de infraestructura, sino también en la prestación de servicios públicos, volviéndose una herramienta importante del Estado en la reducción de la pobreza y desigualdad.
+
+
+-={Referencia bibliográfica}=-
+
+
+´Buscan dar más espacio a Mypes en las contrataciones públicas'. La Nación. Asunción: lanacion.com.py, 2007-03-19.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - Paraguay - Río de la Plata
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[33]
+
+
+-={Concordancia}=-
+
+
+fuerzas, es una época difícil para ser ludita: rodeados y perseguidos por la tecnología las 24 horas del día, los siete días de la semana, las máquinas y sus vástagos dejaron de ser una opción para volverse una necesidad, un camino que nadie ni por asomo puede darse el lujo de esquivar. El ludismo -o sea, aquella corriente que explotó a la par de la revolución industrial con los destructores de máquinas y sus líderes inexistentes-
+
+
+-={Referencia bibliográfica}=-
+
+
+Kukso, Federico: ´Dedalo, Tecnologia y Etica'. Página/12. Futuro. Rosario: pagina12.com.ar/diario/suplemento/futuro, 2007-02-24.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias y tecnología - Argentina - Río de la Plata
+
+Notas: Periodicidad: semanal.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[34]
+
+
+-={Concordancia}=-
+
+
+Mi buscador de parecidos a estrellas de cine se activa de inmediato. Un juego divertido que suele volverse una obsesión, una carga. ¿A quién me recuerda?
+
+
+-={Referencia bibliográfica}=-
+
+
+Thays, Iván: Un lugar llamado Oreja de Perro. Barcelona: Anagrama, 2008.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Perú - Andina - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[35]
+
+
+-={Concordancia}=-
+
+
+fundación de Puerto Piñal, y señalaba con orgullo a Graciela, para enfatizar que el nombre se lo debían a ella. Otros hombres de diferentes expediciones contaron sus aventuras y sus motivos del viaje. Y cuando todo parecía volverse una fiesta y los ánimos se alegraban, mi tío volvió a subirse a la mesa:
+
+
+-={Referencia bibliográfica}=-
+
+
+Pachón García, Carlos Enrique: La ciudad bajo el río. Villavicencio: Fondo Mixto de Promoción de Cultura y las Artes del Meta, 2008.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Colombia - Caribe continental - Ficción.
+
+Notas: Novela ganadora de los Premios de Literatura Departamento del Meta 2007.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[36]
+
+
+-={Concordancia}=-
+
+
+La artista también quiso volverse una especie de "tejedora" maya en vidrio.
+
+
+-={Referencia bibliográfica}=-
+
+
+Solano B., Andrea: ´Artista tica expone en exclusivo museo de vidrio contemporáneo'. Nación.com. San José: nacion.com, 2008-04-19.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - Costa Rica - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[37]
+
+
+-={Concordancia}=-
+
+
+Poco interés. Si su trabajo no le llama la atención o no está de acuerdo a sus habilidades puede volverse una labor estresante.
+
+
+-={Referencia bibliográfica}=-
+
+
+´¿Qué hacer cuando el trabajo lo supera?'. Washington Hispanic. Washington D. C.: washingtonhispanic.com, 2008-11-21.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Salud - Estados Unidos - Estados Unidos
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[38]
+
+
+-={Concordancia}=-
+
+
+otra salida a su pasión que la disolución absoluta de sí mismos. La criada, luego de este contacto sagrado, se transforma en una suerte de santa demente que acaba enterrándose a sí misma; la madre acaba volviéndose una prostituta; el hijo conformista elige convertirse en un delirante artista abstracto que ante su falta de talento termina por orinar sobre sus cuadros, mientras que la hija, de un momento para otro, se reduce
+
+
+-={Referencia bibliográfica}=-
+
+
+Yrigoyen, José Carlos: ´Milagro y utopía'. El Comercio.com.pe. El Dominical. Lima: elcomercio.com.pe, 2008-06-01.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - Perú - Andina
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[39]
+
+
+-={Concordancia}=-
+
+
+La evaluación de pares calificados no es una práctica habitual en lo que concierne a investigación. Tendría que volverse una práctica obligatoria que la selección de proyectos se hiciera no por cuotas sino por los méritos científicos, su pertinencia e impacto social. Una reciente asignación de fondos hecha "a quemarropa" -acaso para compensar alguna
+
+
+-={Referencia bibliográfica}=-
+
+
+Huete Pérez, Jorge A.: ´En materia científica, ¿sólo proveedores de materia prima?'. Envío digital. Managua: envio.org.ni, 2008-01.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias y tecnología - Nicaragua - México y Centroamérica
+
+Notas: Periodicidad: mensual.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[40]
+
+
+-={Concordancia}=-
+
+
+En la oscuridad me acosaban los fantasmas de la ansiedad. Cité tantas veces como un fanfarrón la frase de Macbeth después del asesinato de Duncan que terminó por volverse una realidad para mí. Así pasa con la literatura, cobra venganzas inesperadas: "No dormirás más, Macbeth asesinó al sueño". Resisto a los ejércitos de la noche con Tafil, siempre traigo conmigo
+
+
+-={Referencia bibliográfica}=-
+
+
+Perez Gay, Rafael: Nos acompañan los muertos. México D. F.: Planeta, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[41]
+
+
+-={Concordancia}=-
+
+
+fuese un forro de terciopelo. Terciopelo de féretro. Verde. Verde musgo. Chilla una rata en un costado. Vuelvo a ver. No es una rata sino un bulto enorme. Una sombra gigantesca que busca volverse una forma concreta de... ¿hombre?
+
+
+-={Referencia bibliográfica}=-
+
+
+Orellana Suárez, Mauricio: Ciudad de Alado. San José: Uruk Editores, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - El Salvador - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[42]
+
+
+-={Concordancia}=-
+
+
+a los justos la esperanza de que en el más allá los malos serían castigados y los buenos premiados, cosa que raramente ocurre en este valle de lágrimas. La religión durante siglos representó también la única opción de volverse una persona estudiosa y pensante, para todos aquellos que preferían la vida retirada y contemplativa como una opción mejor que la vida activa. Los primeros científicos, pensadores, escritores, músicos, filósofos, naturalistas,
+
+
+-={Referencia bibliográfica}=-
+
+
+Abad Faciolince, Héctor: ´Mansos y agnósticos. El ateísmo manso'. Caldas, Tito Livio [ed.]: Manual de ateología: 16 personalidades colombianas explican por qué no creen en Dios. Bogotá: Tierra Firme Editores, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+No ficción - Escrito - Libro - Ciencias sociales, creencias y pensamiento - Colombia - Caribe continental - Divulgación.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[43]
+
+
+-={Concordancia}=-
+
+
+hacía ver insignificantes a un posible temor al ridículo, sentido del decoro o pudor que pudieran interponerse entre la mano y la acción. La piel me pesaba como si los huesos viejos la hubiesen malgastado, a fuerza de volverse una carga pesada que estira y estira su envoltorio, deseosa de caer al suelo y de volverse parte de la tierra al fin. Mis ojos ya no se movían de un lado hacia otro, cansados
+
+
+-={Referencia bibliográfica}=-
+
+
+Díaz Klaassen, Francisco: Antología del cuento nuevo chileno. Providencia: Editorial Forja, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[44]
+
+
+-={Concordancia}=-
+
+
+Ambos enfilan hacia la casa. …l dejándose llevar; ella, guiándolo y recibiendo a su paso decenas de miradas. El barullo del billar mengua hasta volverse una secuencia de cuchicheos en sordina. Quizá Licha estaba equivocada, quizá la suerte sí le va a sonreír a Zuly Guadalupe.
+
+
+-={Referencia bibliográfica}=-
+
+
+Aguilar, Juan Gerardo: ´Crónica de la llegada del fantasma'. El refugio del hurón. México D. F.: Jus, 2010.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[45]
+
+
+-={Concordancia}=-
+
+
+Verse y sentirse a gusto con la pinta escogida sin volverse una víctima de la moda.
+
+
+-={Referencia bibliográfica}=-
+
+
+Castaño, Pilar: El hombre en el espejo. Bogotá: Aguilar, 2011.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+No ficción - Escrito - Libro - Actualidad, ocio y vida cotidiana - Colombia - Caribe continental
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[46]
+
+
+-={Concordancia}=-
+
+
+Diego (Evadiéndose, conciliador y muy lentamente). Engrasar y enharinar bien el molde; si no, desmoldar puede volverse una odisea. (Pausa). ¡Creo que iba muy rápido! (Silencio).
+
+
+-={Referencia bibliográfica}=-
+
+
+Molano, Carlos: ´El Trato'. Castillo, Carlos [ed.]: Primer llamado. Antología de la Red Nacional de Dramaturgia. Bogotá: Taller de Edición Rocca, 2010.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+Ficción - Escrito - Libro - Teatro - Colombia - Caribe continental - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[47]
+
+
+-={Concordancia}=-
+
+
+quizás se había encontrado con otros niños y adolescentes como él, huérfanos o casi huérfanos, viviendo dentro del tiempo prestado de la enfermedad de los otros, djo ella. Aluciné, paranoica: ese tiempo prestado los hacía volverse una hermandad, los hacía comportarse una secta. Imaginé que se vestían todos iguales, al modo del luto oriental. Aluciné: todos vueltos espectros vestidos de blanco esperando la muerte de sus familiares, soportando
+
+
+-={Referencia bibliográfica}=-
+
+
+Bisama, Álvaro: Estrellas muertas. Santiago de Chile: Alfaguara, 2010.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[48]
+
+
+-={Concordancia}=-
+
+
+BELICE (Agencias). El huracán Richard azotó ayer al pequeño país centroamericano, donde arrasó con miles de viviendas precarias e interrumpió el servicio eléctrico en la mayor parte del territorio, pero más tarde se debilitó hasta volverse una depresión tropical, camino hacia México.
+
+
+-={Referencia bibliográfica}=-
+
+
+´"Richard" destroza casas en Belice'. El Universal.mx. México, D. F.: eluniversal.com.mx, 2010-10-26.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias y tecnología - México - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[49]
+
+
+-={Concordancia}=-
+
+
+de un marido habituado a viajar con ella por Oriente, convenció a Carolina de Brandeburgo-Ansbach en 1721 (quien sería la reina consorte de Jorge II de Inglaterra) de que hiciera inocular a sus hijos, y la variolación empezó a volverse una moda entre las clases acomodadas, los médicos entendieron que si no incorporaban ese servicio perderían a mucha de su mejor clientela a manos de los empíricos.
+
+
+-={Referencia bibliográfica}=-
+
+
+Rodríguez, Marcelo: ´Cuando inocularse la viruela fue la moda más cool'. Página/12. Futuro. Rosario: pagina12.com.ar/diario/suplementos/futuro, 2010-05-29.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Salud - Argentina - Río de la Plata
+
+Notas: Periodicidad: semanal.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[50]
+
+
+-={Concordancia}=-
+
+
+importa? Por supuesto que no, pero sí debería producir un cierto grado de cautela. Primero, debido a la sobreventa, cualquier concepto de desarrollo como bala mágica hace que un concepto bueno, sólido, corra el riesgo de volverse una víctima de su propia invencibilidad. Con los prospectos de Brasil al alza, el que no cayera Argentina tan pronto como pensaba la mayoría de la gente (aunque caerá eventualmente) y la habilidad continuada de Venezuela y
+
+
+-={Referencia bibliográfica}=-
+
+
+Sabatini, Christopher: ´Cómo hemos sobrevendido el Estado de derecho'. Perspectiva. Bogotá: revistaperspectiva.com, 2010-08.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Política, economía y justicia - Colombia - Caribe continental
+
+Notas: Periodicidad: mensual.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[51]
+
+
+-={Concordancia}=-
+
+
+En Edén el tono del filme da un giro hacia un horror inmaterial externo e interno. El bosque comienza a volverse una entidad viviente, un territorio cargado de símbolos y evocaciones de la muerte de niño, como polluelos que caen de sus nidos, lluvias de bellotas (semillas o árboles que no crecerán) o una cierva
+
+
+-={Referencia bibliográfica}=-
+
+
+Yehya, Naief: ´Anticristo, de Lars Von Trier'. Replicante. México D. F.: revistareplicante.com, 2010-04.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - México - México y Centroamérica
+
+Notas: Periodicidad: mensual.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[52]
+
+
+-={Concordancia}=-
+
+
+-Con Edmundo es imposible razonar, ¿verdad, Amanda? -preguntó Jimena, volviéndose una vez más hacia la joven. Amanda se limitó a mirar al médico.
+
+
+-={Referencia bibliográfica}=-
+
+
+Restrepo, María Cristina: Lo que nunca se sabrá. Barcelona: Seix Barral, 2011.
+
+
+-={Clasificación CORPES}=-
+
+
+2011. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Colombia - Caribe continental - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[53]
+
+
+-={Concordancia}=-
+
+
+de burla o de propia seguridad. Era un señor altivo, en todo caso. Quizá hoy bebiera con menos algarabía, pero era igual de efusivo para brindar. Si acaso, le estaba entrando el síndrome de Santa Clos, el volverse una especie de abuelo de todos y todas quienes lo rodeaban, y que fueran menores en veinte o más años a su edad. Había algo de bondadoso en su trato, aunque seguro del todo inconsciente,
+
+
+-={Referencia bibliográfica}=-
+
+
+Güemes, César: Soñar una bestia. México D. F.: Alfaguara, 2011.
+
+
+-={Clasificación CORPES}=-
+
+
+2011. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[54]
+
+
+-={Concordancia}=-
+
+
+curso de sus vientos, el transcurso de sus tormentas y los cambios que ejercía la nieve en la montaña. "No sólo los que mueren en ella -decía- se han unido a su destino; su naturaleza puede volverse una condena." Encendiendo estudiadamente su narguile, Semion Kasaiev refería que "Dario Naldi no conocía la historia de Olsen; por eso se dejó convencer por él en su decisión de ascender al Latok II, una
+
+
+-={Referencia bibliográfica}=-
+
+
+García-Galiano, Javier: ´Mal de montaña'. Especulaciones cabalísticas. México D. F.: Mondadori, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2011. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[55]
+
+
+-={Concordancia}=-
+
+
+ve y seguí luchando por lo nuestro. El Ser humano bien vale lo mejor de nuestro esfuerzo. No dejes que la llama del amor se apague en tu interior, sóplala, quizá, algún día podrá volverse una llamarada, de nuevo".
+
+
+-={Referencia bibliográfica}=-
+
+
+Barahona, Elías: Aprendiz de topo. Guatemala: Hugo Leonel de León Pérez, 2011.
+
+
+-={Clasificación CORPES}=-
+
+
+2011. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Guatemala - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[56]
+
+
+-={Concordancia}=-
+
+
+Pero, ¿es verdaderamente sostenible esta renuncia a la viabilidad financiera?; los costos, reales y escondidos, graban sobre las más desinteresadas intenciones. Creo que, sin volverse una parte más del "todo mercado" globalizante, este proyecto editorial ya consolidado y que alcanza niveles óptimos de éxito lector debe enfrentarse a los mitos bastardos del neoliberalismo y exigir una parte equitativa en el
+
+
+-={Referencia bibliográfica}=-
+
+
+Espinosa V., César Horacio: ´Cultura (high) para no especialistas'. Aranda Mansilla, Isabel Margarita ... [et al.]: Escáner Cultural (12 años). Santiago de Chile: Consejo Nacional de la Cultura y las Artes, 2011.
+
+
+-={Clasificación CORPES}=-
+
+
+2011. Criterio: Primera edición.
+No ficción - Escrito - Libro - Artes, cultura y espectáculos - Chile - Chilena - Divulgación.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[57]
+
+
+-={Concordancia}=-
+
+
+la furia de Pele. Se llevó la mano a la boca, como si ella fuera roja y transparente al mismo tiempo, una sangre de hielo, una muerte en el espejo que había perdido su dimensión de sol para volverse una estepa de luna. No tenía fuerzas para correr, aunque hubiera querido hacerlo. El lado opuesto de la casa estaba a una distancia que sólo podía medirse en el tiempo de los petroglifos,
+
+
+-={Referencia bibliográfica}=-
+
+
+Montes Huidobro, Matías: Un bronceado hawaiano. Un film noir. Valencia: Aduana Vieja Editorial, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Cuba - Antillas - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[58]
+
+
+-={Concordancia}=-
+
+
+Escritura del boomerang. Volverse una víctima del oficio literario.
+
+
+-={Referencia bibliográfica}=-
+
+
+Valdovinos, Mario: Lihn, la muerte. Santiago de Chile: Desatanudos, Traful Editores, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[59]
+
+
+-={Concordancia}=-
+
+
+Pero no va a dormir. No. Ella se encierra en la biblioteca para ser como las chicas de los libros y alcanzar su sueño eterno de volverse una chica pálida y tensa, pero capaz de superarlo. Para presumir de tener dientes pequeños como el corazón de la naranja. Y guardarse en la boca el pulgar, como hace un niño con
+
+
+-={Referencia bibliográfica}=-
+
+
+Murga, Rebeca: Los aprendices. Madrid: Atmósfera Literaria, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Cuba - Antillas - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[60]
+
+
+-={Concordancia}=-
+
+
+fronterizo. Que él le ha perdonado esa manía de bañarlo y de hacerle tragar los huevos crudos en ayunas. Que sepa que él es un buen chico y para demostrarlo le permitirá frotar su cuerpo hasta volverse una burbuja de espuma gigantesca.
+
+
+-={Referencia bibliográfica}=-
+
+
+Murga, Rebeca: Los aprendices. Madrid: Atmósfera Literaria, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Cuba - Antillas - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[61]
+
+
+-={Concordancia}=-
+
+
+desde ahora a ese futuro que nos aparece cotidianamente como lo inverosímil, lo criminal, lo absurdo. Como lo sintetizaban algunos de los y las zapatistas ilustrados hace más de diez años, en esa frase que terminó volviéndose una tragedia nacional: "nosotros ya somos ustedes". Una frase que, sin embargo, encarnó en un montaje más violento de carácter prognóstico, una frase donde se finca nuestra resistencia: "nosotros ya somos
+
+
+-={Referencia bibliográfica}=-
+
+
+Oliva Mendoza, Carlos: ´El fin del futuro y la crítica marxista'. La Jornada. La Jornada Semanal. México D. F.: jornada.unam.mx, 2012-11-11.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - México - México y Centroamérica - Reportaje.
+
+Notas: Periodicidad: semanal.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[62]
+
+
+-={Concordancia}=-
+
+
+El doctor Hazim Sadideen, cirujano plástico que dirigió el estudio, afirma que ahora será necesario llevar a cabo más estudios para establecer si el uso de música en los quirófanos debe volverse una práctica estándar.
+
+
+-={Referencia bibliográfica}=-
+
+
+´Música reduce la ansiedad en una cirugía'. El Nacional. Santo Domingo: elnacional.com.do, 2012-04-09.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Salud - República Dominicana - Antillas - Noticia.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[63]
+
+
+-={Concordancia}=-
+
+
+Mención especial merece el personaje de Vanellope, quien responde a la fórmula que pareciera comenzar a volverse una constante en los filmes de animación: la niña pequeñita y adorable que acompaña al personaje principal e influye directamente en la trama. En Monsters Inc. era Boo, en Despicable Me fue Agnes; la diferencia quizás es
+
+
+-={Referencia bibliográfica}=-
+
+
+Grande, Luis: ´Wreck it Ralph: de videojuegos y luchas de clases'. Diálogo Digital. San Juan: dialogodigital.com, 2012-11.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - Puerto Rico - Antillas - Crítica.
+
+Notas: Periodicidad: mensual.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+						Corpus del Español del Siglo XXI (CORPES)
+
+
+							    29/03/2016 - 12:00:01
+
+
+
+--------------------------------------------------------------- MODO DE CITA ---------------------------------------------------------------
+
+
+  REAL ACADEMIA ESPAÑOLA: Banco de datos (CORPES XXI) [en línea]. Corpus del Español del Siglo XXI (CORPES). <http://www.rae.es> [29/03/2016]
+
+
+
+================================================================= CONSULTA =================================================================
+
+
+  LEMA = {volver}
+
+  CLASE DE PALABRA = {verbo}
+
+
+ Subcorpus
+ ---------
+
+  ORIGEN = {(Todos)}
+
+
+ Proximidad
+ ----------
+
+  [DERECHA] [DISTANCIA = 1]
+
+    FORMA = {se}
+
+    CLASE DE PALABRA = {pronombre personal}
+
+
+  [DERECHA] [DISTANCIA = 3]
+
+    CLASE DE PALABRA = {sustantivo}
+
+
+  [DERECHA] [INTERVALO = 2]
+
+    FORMA = {un}
+
+
+================================================================ RESULTADOS ================================================================
+
+[1]
+
+
+-={Concordancia}=-
+
+
+Julio.- No se puede nadar entre dos aguas, ¿eh? (Sonríe con amargura.) ¡El viejo don Salvador!... 
+
+
+-={Referencia bibliográfica}=-
+
+
+De las Heras, Fernando: ´La azotea de las malvas'. Baltés, Blanca... [et al.]: Teatro. Piezas breves. Madrid: Fundamentos, 2001.
+
+
+-={Clasificación CORPES}=-
+
+
+2001. Criterio: Primera edición.
+Ficción - Escrito - Libro - Teatro - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[2]
+
+
+-={Concordancia}=-
+
+
+el ochenta por ciento de los consultados gallegos están a favor del pacto. Con un porcentaje así cabe deducir que entre ellos hay mucha, o al menos bastante, gente del Bloque y, si la hay, sostenella y no enmendalla puede volverse un arma de dos filos que termine por herir a quien la empuña.
+
+
+-={Referencia bibliográfica}=-
+
+
+´El contraste'. Faro de Vigo. Vigo: farodevigo.es, 2001-01-02.
+
+
+-={Clasificación CORPES}=-
+
+
+2001. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Política, economía y justicia - España
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[3]
+
+
+-={Concordancia}=-
+
+
+- Ya no va a cambiar. ¿Usted cree que nomás porque yo se lo diga va a dejar de emborracharse, volverse un santo y abandonar los vicios y manías de toda la vida? No sueñe, ¡déjelo! No me diga que aún lo quiere. Me daría tanto gusto que se quedara con nosotros.
+
+
+-={Referencia bibliográfica}=-
+
+
+Sabanero, Sandra: Boda Mexicana. Barcelona: Ediciones B, 2002.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[4]
+
+
+-={Concordancia}=-
+
+
+beben refrescos azucarados y tratan de atrapar golosamente los trocitos de hielo que se van al fondo de los vasos de peltre. De noche cuando se acuesta, le gusta dormirse oyendo las voces que se van apagando hasta volverse un bisbiseo que la arrulla. En la cafetería del Parque de Luxembourg, en medio de esos árboles altos y sin hojas, pide un té bien caliente. Su espíritu cuelga de las ramas, como cuelgan en los cujíes de
+
+
+-={Referencia bibliográfica}=-
+
+
+Ascencio, Michaelle: Amargo y dulzón. Caracas: Casa Nacional de las Letras Andrés Bello, 2002.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Venezuela - Caribe continental - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[5]
+
+
+-={Concordancia}=-
+
+
+meses y un año, lindo y saludable, inquieto, alegre... Pero todos sus atributos, los piececitos de juguete, los hoyuelos, las lágrimas, eran prendas de una metamorfosis: ese delicioso muñeco animado debía volverse un ser humano, y todo el costo de la mudanza recaía sobre ella. Fue como si el mundo se hubiera vuelto una montaña, y ella debiera escalarla. ¿Cómo hacerlo? No sabia
+
+
+-={Referencia bibliográfica}=-
+
+
+Aira, César: Varamo. Barcelona: Anagrama, 2002.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[6]
+
+
+-={Concordancia}=-
+
+
+el lago por la izquierda, sobre una franja de tierra, y cruzar la arboleda al ras, para luego derivar hacia la derecha y hacia el centro del lago y alejarse cada vez más de la orilla, hasta volverse un punto que centelleaba en lo alto, cada vez más distante y más animado ¡y más porfiadamente en el aire!
+
+
+-={Referencia bibliográfica}=-
+
+
+Collyer, Jaime: El habitante del cielo. Barcelona: Seix Barral, 2002.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[7]
+
+
+-={Concordancia}=-
+
+
+que transformaban países, había quedado enterrada bajo la loza marmórea de la frivolidad. Sorprendida, Bárbara sugirió que escribiera ese pensamiento: ella podría ayudarle a publicarlo. Daniel, sin embargo, aseguró que no deseaba volverse un estudioso de su propia información; sólo quería almacenarla por el único placer de almacenarla. ´Eso es ser un vago', espetó Bárbara. Daniel la miró profundamente. Reconoció en ella a
+
+
+-={Referencia bibliográfica}=-
+
+
+Izaguirre, Boris: 1965. Madrid: Espasa Calpe, 2002.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Venezuela - Caribe continental - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[8]
+
+
+-={Concordancia}=-
+
+
+. Cuando alguien se infecta, pueden pasar entre 20 y 40 años para que se manifieste la enfermedad. En la mayoría de los casos, el hígado no lo puede eliminar; el virus progresa a lo largo de mucho tiempo, volviéndose un padecimiento crónico, que puede convertirse en cirrosis o cáncer, indica el especialista.
+
+
+-={Referencia bibliográfica}=-
+
+
+´Hepatitis C, virus silencioso'. La Jornada. Investigación y Desarrollo. México D. F.: Demos, Desarrollo de Medios, S.A. de C.V., 2002-08-03.
+
+
+-={Clasificación CORPES}=-
+
+
+2002. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Salud - México - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[9]
+
+
+-={Concordancia}=-
+
+
+cabrón, no con esas pendejadas de andar con libritos que te chupan el cerebro; las mujeres te chupan la sangre, y andar nomás pensando con tus cuadernitos bajo el brazo, eso te chupa el cerebro. Volverse un hombre es estar un día y otro encima de un motor lleno de grasa y repararlo, hacer que corra más rápido y que se escuche pajita, como nuevo. Hablar de cómo cogen las viejas,
+
+
+-={Referencia bibliográfica}=-
+
+
+Alvarado, Jesús: Bajo el disfraz (los cantares prohibidos). México D. F.: Fondo Editorial Tierra Adentro, Conaculta, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+Notas: Premio Binacional de Novela Joven Frontera de Palabras 2002.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[10]
+
+
+-={Concordancia}=-
+
+
+llano corredor libre de techo, tomaría todo el aire que pudiera acumular y empezaría a correr, cada vez con más prisa, cada vez con más fuerza, hasta que ya los pies no se encontraran con el suelo, hasta volverse un punto diminuto entre las nubes, más allá de las nubes, más allá del más allá de las nubes.
+
+
+-={Referencia bibliográfica}=-
+
+
+Arango, Gustavo: La risa del muerto. Santo Domingo: Editorial Gente, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Colombia - Caribe continental - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[11]
+
+
+-={Concordancia}=-
+
+
+firmeza a más de una persona en privado, como, por ejemplo, cuando algún oyente ataca frontalmente a otro, causando desorden e indisciplina sin medir las consecuencias. Si el principio de autoridad se soslaya, la sesión podría volverse un caos.
+
+
+-={Referencia bibliográfica}=-
+
+
+Ruiz Orbegoso, Miguel Ángel: Sugerencias para aprender a exponer en público. Montevideo: http://www.librosenred.com, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+No ficción - Escrito - Libro - Artes, cultura y espectáculos - Perú - Andina
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[12]
+
+
+-={Concordancia}=-
+
+
+, Kofi Annan, calificó como "positiva" la decisión de Irak, de destruir sus misiles prohibidos. Al mismo tiempo respondió a las críticas del Presidente estadounidense, George W. Bush, quien advirtió que las Naciones Unidas se arriesga a volverse un organismo irrelevante si no actúa pronto. "La ONU es mucho más grande que la crisis sobre Iraq", declaró Annan, quien descartó que la organización pueda sufrir un destino similar al de la fallida
+
+
+-={Referencia bibliográfica}=-
+
+
+´Noticias internacionales'. El Puente. Goshen: webelpuente.com, 2003-03-18.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Política, economía y justicia - Estados Unidos - Estados Unidos - Noticia.
+
+Notas: Periodicidad: quincenal.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[13]
+
+
+-={Concordancia}=-
+
+
+solicitud de los hermanos, te acompaño, che, no seas loco, no vas a meterte solo en la inundación, que cruzó lidiando hasta la puerta, callado, sin oírlos realmente, aunque pudo volverse un segundo para despedirse con la vista de la tía Becky, que desde su sitio en la mesa lo miraba asintiendo.
+
+
+-={Referencia bibliográfica}=-
+
+
+Kociancich, Vlady: Amores sicilianos. Buenos Aires: Seix Barral, 2011.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[14]
+
+
+-={Concordancia}=-
+
+
+Troncoso aceptó y a toda velocidad intentó salirse de sí mismo. E incluso, extremando el ejercicio y compenetrado fuertemente en la acción mental, intentó no solo salirse de sí mismo, sino que volverse un objeto o algo etéreo. Por ejemplo, intentó volverse energía. Una energía no visible, que flotaba en el aire, una energía feliz y carente de problemas. Pero fue solo por un rato:
+
+
+-={Referencia bibliográfica}=-
+
+
+Valbuena, Roka: ´Sensei'. Marks, Camilo: Los mejores cuentos chilenos del siglo XXI. Santiago de Chile: Sudamericana, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[15]
+
+
+-={Concordancia}=-
+
+
+su sitio. Hacerse de piedra era el único camino saludable, soportable para los agentes del Servicio Secreto. La otra vía era dejar las emociones sueltas y enloquecer con los disparos, disfrutarlos como energúmeno. Volverse un loco furioso y un cínico. Pensar en la muerte y hablar de ella con ojo clínico de pistolero ("Se murió con los ojos saltados como canicas"; "Casi no tuvo hervores de agonía
+
+
+-={Referencia bibliográfica}=-
+
+
+Montelongo, José: Quincalla. México: Jus, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[16]
+
+
+-={Concordancia}=-
+
+
+LA IDEA de volverse un escritor famoso estorba la ESCRITURA.
+
+
+-={Referencia bibliográfica}=-
+
+
+Echeverría, Maurice: Labios. Guatemala: Magna Terra, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Guatemala - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[17]
+
+
+-={Concordancia}=-
+
+
+hora de romper con esa necia fascinación que tengo por lo urbano, mayormente porque se está convirtiendo en un salvoconducto de mi prosa, y el escritor debe huir de todo aquello que facilita. No es cuestión de volverse un mártir, un Flaubert, un niño con gafas de genio, pero sí de no repetirse un poco, un poquito.
+
+
+-={Referencia bibliográfica}=-
+
+
+Echeverría, Maurice: Labios. Guatemala: Magna Terra, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Guatemala - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[18]
+
+
+-={Concordancia}=-
+
+
+LLEGADO el caso, lo mejor es matar a tu personaje. Una cuestión de estilo. Habrá que creer en la esperanza y en la posibilidad del amor, ciertamente, pero jamás volverse un optimista, qué espanto.
+
+
+-={Referencia bibliográfica}=-
+
+
+Echeverría, Maurice: Labios. Guatemala: Magna Terra, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Guatemala - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[19]
+
+
+-={Concordancia}=-
+
+
+le como Quevedo:. Las once y media, buena hora para empeñarme en necedades. Así que pretendo convencer al imaginario podador de un pasto que ha crecido sin cuidado por lo menos durante los últimos sesenta y cinco días, hasta volverse un pastizal tramado con pequeñas flores blancas y anaranjadas, pretendo convencerlo de que corte solamente el borde del camino, de que ordene y limpie, pero dejando las pequeñas flores que están detrás, salpicando el
+
+
+-={Referencia bibliográfica}=-
+
+
+Mastretta, Ángeles: El cielo de los leones. Barcelona: Seix Barral, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+No ficción - Escrito - Libro - Ciencias sociales, creencias y pensamiento - México - México y Centroamérica - Biografía memoria.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[20]
+
+
+-={Concordancia}=-
+
+
+la máscara del ceño levemente fruncido, pero el buche de letras en la boca no le dejará tragarse el pasme. Optará entonces por dar cuenta a sí mismo de cómo está. No-no-on-o-n-o... se disgregará Nono volviéndose un charco de grasa amarillenta bajo las suelas de sus zapatos descalzos.
+
+
+-={Referencia bibliográfica}=-
+
+
+Font Acevedo, Francisco: ´Bondades de una corbata'. Caleidoscopio. San Juan: Isla Negra, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - Puerto Rico - Antillas - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[21]
+
+
+-={Concordancia}=-
+
+
+un guiñapo maltratado, insomne. Como larva de zafacón se regodea en la inmundicia, amarillo de nicotina y cocido en sudores añejos. Quisiera dejarse consumir igual que el cigarrillo que lo fuma, permanecer inmóvil y volverse un protoplasma o encenderse como una pira de gelatinoso colesterol.
+
+
+-={Referencia bibliográfica}=-
+
+
+Font Acevedo, Francisco: ´Caleidoscopio'. Caleidoscopio. San Juan: Isla Negra, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - Puerto Rico - Antillas - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[22]
+
+
+-={Concordancia}=-
+
+
+, tú me dirás qué cara vamos a tener todos, (Se mira fijamente en el espejo.) que tengo unas ojeras hasta la boca... (Saca unos útiles del armario y empieza a maquillarse. Volviéndose un instante hacia la puerta.) ¡Que te calles, mamá, que no quiero oírte! (Seguirá el silencio.) Como mucho, he dormido dos horas. ¡Pero en fin!,
+
+
+-={Referencia bibliográfica}=-
+
+
+Resino, Carmen: La boda (Monólogo). Alicante: Biblioteca Virtual Miguel de Cervantes, 2004.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+Ficción - Escrito - Libro - Teatro - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[23]
+
+
+-={Concordancia}=-
+
+
+atrás, a paso de peta.Pero ya vamos acelerando, y esta Feria, gracias a Peter Lewy, es un marco importante.A mí me parece que después de esta Feria habrá otras, y Santa Cruz de la Sierra ya puede volverse un centro de cultura importante.
+
+
+-={Referencia bibliográfica}=-
+
+
+´Lobo suelto. Las compulsiones de Montes'. El Deber. Santa Cruz de la Sierra: eldeber.com.bo, 2004-06-05.
+
+
+-={Clasificación CORPES}=-
+
+
+2004. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - Bolivia - Andina
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[24]
+
+
+-={Concordancia}=-
+
+
+el que el paisaje huía tras el cristal de la ventanilla) los llevara hacia otro viaje interior, el balanceo se prestaba a la somnolencia pero también a inventarse de nuevo. De tan pequeño, el compartimiento podía volverse un confesionario. Fuera del mundo, vivían una película, el rodar descontrolado de sus ilusiones que los regresaba al trabalenguas de su infancia: "Rápido corren los carros cargados de azúcar del ferrocarril".
+
+
+-={Referencia bibliográfica}=-
+
+
+Poniatowska, Elena: El tren pasa primero. Madrid: Alfaguara, 2005.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[25]
+
+
+-={Concordancia}=-
+
+
+La voz de Ilse se había ido adelgazando hasta volverse un murmullo. La respiración de Ana era pausada, con un ligero ronquido que desapareció cuando Ilse la puso de costado, y la cubrió con la manta hasta el cuello.
+
+
+-={Referencia bibliográfica}=-
+
+
+Kaufmann, Paola: El lago. Buenos Aires: Planeta, 2005.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[26]
+
+
+-={Concordancia}=-
+
+
+. Si algún ejemplar de este numeroso grupo cede ante la posibilidad de serle infiel a su esposa no será porque él lo haya buscado. El otro camino -el que eligen los menos- es el de volverse un esteta de desodorante y perfumes caros, de encendedores eléctricos y tabaco europeo, de sólo whisky y nunca ron y de bigote bien recortado. Pero sobre todo, es el camino de adoptar una animosidad exagerada,
+
+
+-={Referencia bibliográfica}=-
+
+
+Gálvez Suárez, Arnoldo: El tercer perfil. Ciudad de Guatemala: Letra Negra Editores, 2005.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Guatemala - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[27]
+
+
+-={Concordancia}=-
+
+
+Gigantes furiosos, corceles que en su galope abierto estiraban su cuerpo hasta volverse un hilo. Formas impresionantes, que el viento se llevaba al reino de lo invisible. Este era un pequeño destello del mundo donde este niño se sentía seguro y lo más importante, libre. El Neptuno
+
+
+-={Referencia bibliográfica}=-
+
+
+Vijil Rosales, Pedro: El ojudo. Novela histórica. Tegucigalpa: Litografía López, 2005.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Honduras - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[28]
+
+
+-={Concordancia}=-
+
+
+-Perdona -dijo el antiguo compañero de Marta volviéndose un instante pero todavía sin soltarme-. Enseguida te lo cuento. Tendremos tiempo, no te preocupes. -Miró hacia su copa, que sostenía en una mano, y volvió a dirigirse a
+
+
+-={Referencia bibliográfica}=-
+
+
+Giralt Torrente, Marcos: Los seres felices. Barcelona: Editorial Anagrama, 2005.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[29]
+
+
+-={Concordancia}=-
+
+
+que el jugador debutará mañana en el Morumbi. "Necesita reposo absoluto y no debería jugar. Cuatro días de tratamiento es poco. Con la erisipela no se juega. Si no es curada, la erisipela puede volverse un problema permanente", afirmó la dermatóloga Valeria Petri, de la Universidad de San Pablo.
+
+
+-={Referencia bibliográfica}=-
+
+
+´De primera'. El País digital. Montevideo: elpais.com.uy, 2005-01-28.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Actualidad, ocio y vida cotidiana - Uruguay - Río de la Plata
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[30]
+
+
+-={Concordancia}=-
+
+
+Una vez llegados a Doradal y habiendo dejado tras nosotros las exquisitas curvas de la Cordillera Central, nos adentramos por la zona del Magdalena Medio, donde el viaje tiende a volverse un poco monótono cuando te encuentras con que la velocidad punta de la XTZ está en los 100km/h y ese ritmo en una carretera plana y con rectas hasta de 20km como en el tramo que lleva
+
+
+-={Referencia bibliográfica}=-
+
+
+´Yamaha XTZ 125 triple propósito'. De Motos. Medellín: demotos.com.co, 2005-08.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias y tecnología - Colombia - Caribe continental
+
+Notas: Periodicidad: bimestral.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[31]
+
+
+-={Concordancia}=-
+
+
+acometen para entrar en los míos. Su lucidez me produce temor. Pero también expectación. Theo es una posibilidad que se abre tímidamente. Cierro los ojos y lo nombro. Theo. La posibilidad se ensancha hasta volverse un sentimiento. Tal vez él tenga la fuerza para que Antonio ya no me importe, para que su vida no sea el centro de la mía. Con Antonio somos amigos porque yo velo sus sueños, porque nunca nos
+
+
+-={Referencia bibliográfica}=-
+
+
+Guelfenbein, Carla: La mujer de mi vida. Madrid: Alfaguara, 2011.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[32]
+
+
+-={Concordancia}=-
+
+
+antes de eso parecen irrelevantes: la casita con jardín para que el niño juegue, el coche para llevarlo a pasear, una buena educación. Planes que le hacen sentir a uno que madura y está listo para volverse un poco más práctico, dejar atrás una idea, renunciar a tal proyecto, esforzarse por un salario más alto, hacer buenas relaciones y volverse un poco más obsequioso, menos inconforme y rejego.
+
+
+-={Referencia bibliográfica}=-
+
+
+Ojeda, David: La santa de San Luis. México D. F.: Tusquets Editores, 2006.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[33]
+
+
+-={Concordancia}=-
+
+
+le hacen sentir a uno que madura y está listo para volverse un poco más práctico, dejar atrás una idea, renunciar a tal proyecto, esforzarse por un salario más alto, hacer buenas relaciones y volverse un poco más obsequioso, menos inconforme y rejego.
+
+
+-={Referencia bibliográfica}=-
+
+
+Ojeda, David: La santa de San Luis. México D. F.: Tusquets Editores, 2006.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[34]
+
+
+-={Concordancia}=-
+
+
+para encender dos lámparas de bujía que iluminaron débilmente el cenador. Las restricciones eléctricas que aún pesaban sobre la ciudad no permitían utilizar las farolas del jardín. Estuvimos un rato sin hablar, respirando un aire que estaba volviéndose un poco más fresco. Pude notar el perfume intenso de las madreselvas que crecían en las columnas de la pérgola. A lo lejos, en el estanque, me pareció que croaba una rana. Un pájaro se agitó
+
+
+-={Referencia bibliográfica}=-
+
+
+Rivera de la Cruz, Marta: En tiempo de prodigios. Barcelona: Planeta, 2006.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[35]
+
+
+-={Concordancia}=-
+
+
+Pero es necesario adentrarse en el arte de besar para volverse un experto en la materia y saber, por ejemplo, que los besos más sensuales no son aquéllos en los que se utiliza la lengua, sino en los que se atrapa uno de los labios de la pareja
+
+
+-={Referencia bibliográfica}=-
+
+
+´Si vas a robar algo, que sea un beso'. El Universal.com.mx. México D. F.: eluniversal.com.mx, 2006-09-12.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - México - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[36]
+
+
+-={Concordancia}=-
+
+
+la postura, vestirse de forma siempre elegante y evitar el lenguaje soez como forma de mantener el autocontrol y la irascibilidad, sobre todo entrenarse diariamente para lograr naturalmente un carácter jovial, social, amable y no volverse un protestón y quejarse de todo lo viviente y de lo que lo rodea. No importan los años que uno haya vivido si es posible lograr un equilibrio entre lo mencionado.
+
+
+-={Referencia bibliográfica}=-
+
+
+´Como mantener el cerebro joven'. ABC Digital. Salud. Asunción: abc.com.py, 2006-07-28.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Salud - Paraguay - Río de la Plata
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[37]
+
+
+-={Concordancia}=-
+
+
+que maltrataba a todos. Con pequeñas sugerencias astrales le fue indicando que su intemperancia no lo mostraba como un hombre poderoso y exigente, sino como un tipo débil y ridículo. No tardó mucho el jefe tiránico en volverse un tanto demagógico y dicharachero: a los dos meses la empresa lo trasladó, castigado, al archivo.
+
+
+-={Referencia bibliográfica}=-
+
+
+Fernández Díaz, Jorge: ´La astróloga de la medianoche'. Corazones desatados: historias de amor de gente común. Buenos Aires: Sudamericana, 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[38]
+
+
+-={Concordancia}=-
+
+
+tímida, sí, le cuesta darse y le cuesta hablar. Pero ahora vuelve a pasar más tiempo, como hizo hace días, en la sala de preceptores, y el trato comienza por sí solo a volverse un poco más fluido. No son tantas últimamente las cosas de las que tienen que ocuparse los preceptores. Mientras se dictan clases en el colegio, el tiempo muerto de que disponen es bastante considerable.
+
+
+-={Referencia bibliográfica}=-
+
+
+Kohan, Martín: Ciencias morales. Barcelona: Anagrama, 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[39]
+
+
+-={Concordancia}=-
+
+
+Pero pronto aparecieron otras transformaciones. ¿O debería decir otras sensaciones mías exageradas? Su aliento cambió volviéndose un poco más fermentado. Comenzó a roncar y lo hacía más fuerte cada noche. El aliento de su vagina de pronto tenía algo de sulfuroso en su sabor y en su olor. Y me parecía que un
+
+
+-={Referencia bibliográfica}=-
+
+
+Ruy Sánchez, Alberto: La mano del fuego. Un Kama Sutra involuntario. Madrid: Alfaguara, 2008.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[40]
+
+
+-={Concordancia}=-
+
+
+O bien el sol había variado su sustancia y naturaleza para volverse un grosero, voluminoso y radiante huevo ocre, o esto que se deslizaba frente a nosotros con astucia de áspid era sangre, humana por demás. Recamier haló a la joven y la sustrajo de la contemplación impulsiva
+
+
+-={Referencia bibliográfica}=-
+
+
+Escoto, Julio: El génesis en Santa Cariba. Honduras: Centro, 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Honduras - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[41]
+
+
+-={Concordancia}=-
+
+
+Deseó que ojalá existieran máquinas para leer el pensamiento y le encontraran sus fórmulas para restablecer el equilibrio, para volverse un deportista sin cansancio y para sentir satisfecho que encarnaba a un vegetariano realmente longevo. Pensaría de ahí en adelante en cuidar su salud, en no abandonar jamás las vitaminas, en volverse impecable con la dieta, en
+
+
+-={Referencia bibliográfica}=-
+
+
+Pardo Rodríguez, Carlos Orlando: ´El hombre al que se le perdieron las palabras'. El día menos pensado y otros cuentos. Bogotá: Códice Ltda., 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - Colombia - Caribe continental - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[42]
+
+
+-={Concordancia}=-
+
+
+si andaba con Verlaine, que si estaba loquito, que era un maldito y tomaba absinthe... No nos importa mucho hablar de eso ahora. Nos importa hablar de esta suerte de vaciamiento que le va sucediendo hasta volverse un asceta".
+
+
+-={Referencia bibliográfica}=-
+
+
+Molina Ramírez, Tania: ´Las desgracias de Rimbaud nos siguen explicando: Guillermo León'. La Jornada. México D. F.: jornada.unam.mx, 2007-06-22.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - México - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[43]
+
+
+-={Concordancia}=-
+
+
+, Cayetano confiaba todavía en encontrar a la mujer de su vida y en llegar a ser padre de un niño o una niña, lo mismo le daba, mientras fuese sanito, antes de quedarse completamente calvo y volverse un jubilado artrítico y cascarrabias. Y si bien al inicio le había resultado difícil adecuarse a la severidad de los chilenos y los rigores climáticos de su tierra montañosa, ahora la isla de Cuba, su gente y
+
+
+-={Referencia bibliográfica}=-
+
+
+Ampuero, Roberto: El caso Neruda. Barcelona: La otra orilla, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[44]
+
+
+-={Concordancia}=-
+
+
+), ambas dirigidas por Elia Kazan; y Julio César (1953) de Joseph L. Mankiewicz. Pero lo que se confirmaba ahora era una personalidad que contaba con el magnetismo que es necesario en la pantalla para trascenderla y volverse un ser fotogénico, que representa algo más de lo que muestra. Eso que tienen pocos actores: carisma.
+
+
+-={Referencia bibliográfica}=-
+
+
+Bercini, Reyes: El cine y la estética cambiante. México D. F.: UNAM, Centro Universitario de Estudios Cinematográficos: Direción General de Publicaciones y Fomento Editorial, 2008.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+No ficción - Escrito - Libro - Artes, cultura y espectáculos - México - México y Centroamérica - Académico.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[45]
+
+
+-={Concordancia}=-
+
+
+experimento escénico elaborado como metáfora del ensamblaje de un pantalón de mezclilla. Mediante un tono fársico y con el apoyo de música y baile, busca denunciar una grave problemática social, pero sin descuidar los aspectos artísticos ni volverse un panfleto.
+
+
+-={Referencia bibliográfica}=-
+
+
+Camacho Servín, Fernando: ´Monólogos de la maquila expone las dos caras del consumismo'. La Jornada. México D. F.: jornada.unam.mx, 2008-07-13.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - México - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[46]
+
+
+-={Concordancia}=-
+
+
+encuentran grupos de chavos que están reunidos en una esquina para beber y tocar al acordeón; una especie de tocadas improvisadas que llevan años generándose y, ahora, fomentadas por el gobierno local, al grado de volverse un modo de control social. El gobierno ha encontrado un modo de encauzar inquietudes populares acercándoles este tipo de actividades y conciertos, con los cuales la gente queda contenta. No deja de ser inteligente de
+
+
+-={Referencia bibliográfica}=-
+
+
+Olivares, Juan José: ´Cumbia callejera retrata la Cholombia de Monterrey'. La Jornada. México D. F.: jornada.unam.mx, 2008-04-28.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - México - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[47]
+
+
+-={Concordancia}=-
+
+
+Es curioso que el mes de septiembre sea un mes cívico no sólo para Honduras y Centroamérica, como lo hemos sentido, sino para toda América. Lo que hace volverse un mes interesante de alegría por una parte y de reflexión, por otra. Sobre todo en cuestiones patrióticas y de identidad nacional y regional.
+
+
+-={Referencia bibliográfica}=-
+
+
+Pineda Portillo, Noé: ´Septiembre mes de civismo en América'. La Tribuna. Tegucigalpa: latribuna.hn, 2008-09-05.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - Honduras - México y Centroamérica
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[48]
+
+
+-={Concordancia}=-
+
+
+Luego de pagar su última condena, Antonio Medina intentó volverse un hombre de bien y aprovechar su ingenio en empresas decentes. Tuvo una fábrica de estropajos, por ejemplo; pero todos sus proyectos juntos no le alcanzaron para borrar su gloria de granuja tallada a mano. Toñilas
+
+
+-={Referencia bibliográfica}=-
+
+
+Mora Meléndez, Fernando: ´Retrato de dama con bandido'. El Malpensante.com. Bogotá: elmalpensante.com, 2008-11.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - Colombia - Caribe continental
+
+Notas: Periodicidad: mensual.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[49]
+
+
+-={Concordancia}=-
+
+
+Desdémona: Porque después de los hechos, los relatos terminan por volverse un cuento.
+
+
+-={Referencia bibliográfica}=-
+
+
+Chías, …dgar: Una  merienda de negros: (8: No levantarás falsos testimonios). México D. F.: Pasodegato, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Teatro - México - México y Centroamérica - Ficción.
+
+Notas: La obra está publicada en el número 31 de la colección Cuadernos de Dramaturgia Mexicana.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[50]
+
+
+-={Concordancia}=-
+
+
+el bebé seguía comiéndose todos mis glóbulos rojos. Con mis nutrientes se había formado la placenta, una bolsa que lo protegía, incluso de mí, una especie de sillón mullido donde descansaba esperando la hora de volverse un feto.
+
+
+-={Referencia bibliográfica}=-
+
+
+Wiener, Gabriela: Nueve lunas. Barcelona: Random House Mondadori, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Perú - Andina - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[51]
+
+
+-={Concordancia}=-
+
+
+Máximo quedó mudo, ella no podía volverse un número, los dígitos en su currículo habían desaparecido para darle paso a los signos de interrogación. Se volvió a sentir mal, recordó a su novia y el tormento de la Salamandra.
+
+
+-={Referencia bibliográfica}=-
+
+
+Matablanco, Alonso: ´Salamandra'. Caníbales. San José: URUK Editores, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - Costa Rica - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[52]
+
+
+-={Concordancia}=-
+
+
+sobre su cuerpo. Ella pensó que aquel hombre empapado era su igual: rendido y libre, se dejaba lavar por la lluvia. Quiso saludarlo cuando pasó a su lado, pero la sonrisa se le contrajo volviéndose un espasmo en el diafragma. El hombre levantó la vista. Detrás de la máscara de agua escurrida reconoció la cara del Energúmeno.
+
+
+-={Referencia bibliográfica}=-
+
+
+Gálvez Suárez, Arnoldo: Los jueces. Ciudad de Guatemala: Ediciones Armar, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Guatemala - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[53]
+
+
+-={Concordancia}=-
+
+
+Es como golpear el suelo y volverse un montón de piedras.
+
+
+-={Referencia bibliográfica}=-
+
+
+Silva Márquez, César: Una isla sin mar. Barcelona: Mondadori, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[54]
+
+
+-={Concordancia}=-
+
+
+esquiva zorra- que hemos de buscar las razones del presente y del futuro, los giros misteriosos -pero no tan misteriosos- que resultan en los acontecimientos que han de minar nuestras vidas. No se trataba de volverse un romántico y perorar rebosante de cursilería sobre la magia del momento, sobre el Destino y el Timing, pero sí de saber eso, que ella, él, ellos, ya no más. A veces pasa
+
+
+-={Referencia bibliográfica}=-
+
+
+Díaz Klaassen, Francisco: Antología del cuento nuevo chileno. Providencia: Editorial Forja, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[55]
+
+
+-={Concordancia}=-
+
+
+Vicente.- (Tragando saliva y volviéndose un poco.) ¡Papaíto! (Luego, al no quedarle más remedio que afrontar la situación.) ¿Así es que lo tenéis todo pensado?
+
+
+-={Referencia bibliográfica}=-
+
+
+Martínez Ballesteros, Antonio: ´Tres, número impar'. Doña Perfecta. Tres, número impar. Madrid: Fundamentos, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Teatro - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[56]
+
+
+-={Concordancia}=-
+
+
+"Confío en que la economía cubana mejore, pero también creo que el mundo puede estropearse siendo demasiado rico. Es por ello que pienso que Cuba solo necesita volverse un poquito más rica, y mi país, Noruega, podría volverse un poquito menos rico. Y tengo que añadir que me parece terrible y estúpido el bloqueo de Estados Unidos contra este pequeño país.
+
+
+-={Referencia bibliográfica}=-
+
+
+´Es imposible conseguir la felicidad sin preguntarnos en qué consiste'. Juventud rebelde. La Habana: juventudrebelde.cu, 2009-03-01.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - Cuba - Antillas
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[57]
+
+
+-={Concordancia}=-
+
+
+economía cubana mejore, pero también creo que el mundo puede estropearse siendo demasiado rico. Es por ello que pienso que Cuba solo necesita volverse un poquito más rica, y mi país, Noruega, podría volverse un poquito menos rico. Y tengo que añadir que me parece terrible y estúpido el bloqueo de Estados Unidos contra este pequeño país.
+
+
+-={Referencia bibliográfica}=-
+
+
+´Es imposible conseguir la felicidad sin preguntarnos en qué consiste'. Juventud rebelde. La Habana: juventudrebelde.cu, 2009-03-01.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - Cuba - Antillas
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[58]
+
+
+-={Concordancia}=-
+
+
+Con 2666, su enorme y elogiada obra póstuma, Bolaño dejó de ser un autor de culto para volverse un escritor traducido a muchos idiomas, entre ellos el inglés, lengua que hoy en EU le rinde pleitesía mediante la publicación de sus libros y de críticas laudatorias en los principales periódicos y revistas especializadas.
+
+
+-={Referencia bibliográfica}=-
+
+
+Maristain, Mónica: ´La batalla futura de un autor que murió antes de tiempo'. El Universal.com.mx. México D. F.: eluniversal.com.mx, 2009-09-19.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Ver nota.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - Argentina - Río de la Plata - Opinión.
+
+Notas: Criterio de clasificación: nacionalidad del autor.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[59]
+
+
+-={Concordancia}=-
+
+
+Además, la casa puede empezar a acomodarse para volverse un entorno seguro, con pasamanos en los baños, sacando las alfombras de los pasillos y aumentado el seguro de la puerta que da a la calle.
+
+
+-={Referencia bibliográfica}=-
+
+
+Torres, Amalia: ´Reconocer el comienzo del Alzheimer retrasa su avance'. El Mercurio. Santiago de Chile: diario.elmercurio.com, 2009-02-16.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Salud - Chile - Chilena
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[60]
+
+
+-={Concordancia}=-
+
+
+inmundo, a gato muerto, a huevo podrido, a bruja de dramatizado. ¿Que no podía, Elsa Vasco? ¿Que la jefe de producción más linda de las agencias de publicidad bogotanas no era capaz de volverse un excremento? Ahí está la prueba, señoras y señores. Ahí, en la primera página de El Espacio, el periódico más amarillo de la crónica roja, reza un titular inmenso que dice, a
+
+
+-={Referencia bibliográfica}=-
+
+
+Romero Rey, Sandro: El miedo a la oscuridad. Bogotá: Alfaguara, 2010.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Colombia - Caribe continental - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[61]
+
+
+-={Concordancia}=-
+
+
+D. PEDRO:(Volviéndose un poco tímido.) ¿Creéis que sería un buen Inquisidor?
+
+
+-={Referencia bibliográfica}=-
+
+
+Guerrero Lozada, Clara Maritza: La boda de las Vargas. Bucaramanga: (Sic) Editorial, 2010.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+Ficción - Escrito - Libro - Teatro - Colombia - Caribe continental - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[62]
+
+
+-={Concordancia}=-
+
+
+Jerónimo de Aguilar, Gonzalo Guerrero y la Malinche. Ayer platicábamos en Londres con Hugh Thomas sobre cómo Gonzalo Guerrero y Jerónimo de Aguilar, los náufragos españoles, representan los dos extremos de la conducta española ante el Descubrimiento: uno cambia de bando, volviéndose un guerrero indígena, y el otro se convierte en un misionero ferviente de la Conquista. Y desde luego está la Malinche, figura cuya percepción en México ha cambiado: pasó de ser la traidora por antonomasia a transformar
+
+
+-={Referencia bibliográfica}=-
+
+
+Domínguez Michael, Christopher: ´Doce voces de la historiografía mexicana. V. John H. Elliott o el dominio del mar Atlántico'. Letras Libres. México D. F.: letraslibres.com, 2010-05.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - México - México y Centroamérica
+
+Notas: Periodicidad: mensual.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[63]
+
+
+-={Concordancia}=-
+
+
+, carga con un lastre romántico y contradictorio que Conrad aún no podía sacarse de encima, sobre todo en el diseño de la personalidad del personaje. Ese joven romántico que es solo interesante para Marlow no consigue nunca volverse un ser de carne y hueso. Es posible que Conrad tuviera conciencia de ello, lo cual explicaría la obsesiva y sospechosa insistencia de Marlow por intentar imponerle a oyentes y lectores su incongruente amor a Jim. Es decir,
+
+
+-={Referencia bibliográfica}=-
+
+
+Altesor, Sergio: ´Lord Jim y la novela moderna. El laboratorio de tuan Jim'. El Pais. Cultural. Montevideo: elpais.com.uy/Suple/Cultural, 2010-05-21.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - Uruguay - Río de la Plata
+
+Notas: Periodicidad: semanal.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[64]
+
+
+-={Concordancia}=-
+
+
+, cuando no es muy extremo y se refiere al Armagedón y el Apocalipsis. Cualquier género es bueno, en realidad, para dejar ver las entretelas del aparato financiero y de poder que sostiene el mundo o le impide volverse un lugar mejor. Ambas tendencias encontradas se concilian en la práctica y en la mente de algunas personas. Es importante reparar en el aparato supuestamente ficticio de la historia que vuelve muy difícil al espectador promedio distinguir
+
+
+-={Referencia bibliográfica}=-
+
+
+Olvera Mijares, Raúl: ´Nostalgia por Rusia'. Replicante. México D. F.: revistareplicante.com, 2010-10.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - México - México y Centroamérica
+
+Notas: Periodicidad: mensual.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[65]
+
+
+-={Concordancia}=-
+
+
+Eso implica no sólo que ahora ser tatuador puede volverse un arte del que se puede vivir -todos los profesionales que participan del encuentro lo hacen, señaló Serrat-, sino que la relación con quienes prestan la piel va bastante más allá de la de vendedor y cliente.
+
+
+-={Referencia bibliográfica}=-
+
+
+Auyanet, Sebastián: ´Culto, adrenalina y vínculos en el encuentro del tatuaje'. El Pais. Montevideo: elpais.com.uy, 2010-04-25.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - Uruguay - Río de la Plata
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[66]
+
+
+-={Concordancia}=-
+
+
+Sin embargo, para Maristella Sanín, presidente de Fedeleasing, también existe el riesgo de que esta actividad pierda fortaleza al volverse un producto más dentro del amplio portafolio de los bancos. "Ojalá conserven y estimulen el factor humano que trasladen al banco, pues el que sabe hacer crédito no necesariamente sabe hacer leasing", afirma. Y
+
+
+-={Referencia bibliográfica}=-
+
+
+´Leasing, cada vez más bancarizado'. Dinero.com. Santa Fe de Bogotá: dinero.com, 2010-05-03.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Política, economía y justicia - Colombia - Caribe continental
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[67]
+
+
+-={Concordancia}=-
+
+
+A diferencia de Wilde, quien pensaba que los testimonios son inanes y lo trascendente es embellecer nuestra percepción de lo real llenando nuestro entorno de objetos sublimes, yo experimento los adornos (hasta lo sublime corre el riesgo de volverse un adorno) como nuevorriquismo y como obscenidad. Convertir un anecdotario en estructura, por el contrario, ofrece siempre el desafío de conquistar cierto grado de belleza: lograr un ritmo a despecho de la insonorizada vulgaridad que es la vida
+
+
+-={Referencia bibliográfica}=-
+
+
+Herbert, Julián: Canción de tumba. Barcelona: Mondadori, 2011.
+
+
+-={Clasificación CORPES}=-
+
+
+2011. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[68]
+
+
+-={Concordancia}=-
+
+
+no todo: dinamitar el metro cuadrado que uno ocupaba entre la gente. Más bien: dejar sillas vacías en las mesas que se compartían con las amistades, no a modo de metáfora, sino en verdad, dejar una silla, volverse un hueco para los amigos, permitir que el círculo de silencio en torno a uno se ensanche y se llene de especulaciones. Lo que pocos entienden es que uno deja una vida para empezar otra.
+
+
+-={Referencia bibliográfica}=-
+
+
+Luiselli, Valeria: Los ingrávidos. México D. F.: Sexto Piso, 2011.
+
+
+-={Clasificación CORPES}=-
+
+
+2011. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[69]
+
+
+-={Concordancia}=-
+
+
+Dormimos abrazados en el piso o algo así". O el 26 de agosto de 2006: "Edipo, tus ojos. Marina, sangrando. Un rayo te parte después de que justamente aquello, en algún momento sagrado, se profanara hasta volverse un sonámbulo caminando sin rumbo. Que duela tanto como el dolor que has provocado". Podría agregar mucho más. Hoy tomo conciencia de la cantidad de textos que Marina ha producido en tan pocos años y
+
+
+-={Referencia bibliográfica}=-
+
+
+Incardona, Juan Diego: ´Palabra de Lolamaar'. Página/12. Rosario: pagina12.com.ar, 2011-02-13.
+
+
+-={Clasificación CORPES}=-
+
+
+2011. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Artes, cultura y espectáculos - Argentina - Río de la Plata
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[70]
+
+
+-={Concordancia}=-
+
+
+como la de los uniformados: las fuerzas paramilitares -fuerzas centrales de seguridad, guardia nacional, policía secreta y guardia fronteriza- suman cerca de 400 mil hombres. El analista también advierte que "si el ejército puede volverse un decididor supremo de la política en períodos de sublevación, no es, como en Argelia, el gobierno de facto".
+
+
+-={Referencia bibliográfica}=-
+
+
+Febbro, Eduardo: ´Los garantes'. Página/12. Rosario: pagina12.com.ar, 2011-02-13.
+
+
+-={Clasificación CORPES}=-
+
+
+2011. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Política, economía y justicia - Argentina - Río de la Plata
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[71]
+
+
+-={Concordancia}=-
+
+
+(ASE), una organización independiente sin fines de lucro dedicada a mejorar la calidad de los servicios y reparaciones automotores por medio de pruebas voluntarias y certificación de técnicos automotores. "Lo peor es que un problema menor puede volverse un dolor de cabeza costoso si no se cuida", añade.
+
+
+-={Referencia bibliográfica}=-
+
+
+´Cómo prevenir el "estrés" de su automóvil'. Washington Hispanic. Washington D. C.: washingtonhispanic.com, 2011-04-23.
+
+
+-={Clasificación CORPES}=-
+
+
+2011. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Actualidad, ocio y vida cotidiana - Estados Unidos - Estados Unidos
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[72]
+
+
+-={Concordancia}=-
+
+
+¿De que un viejo todavía pudiera? ¿De que un ciudadano común, por causas todas suyas, pudiera volverse un soldado más feroz que ellos mismos? En todo caso, mi padre, ¿lo sabía? ¿Daba ese espectáculo, como quien toca el piano? ¿Y qué satisfacción le procuraba el aplauso?
+
+
+-={Referencia bibliográfica}=-
+
+
+Brizuela, Leopoldo: Una misma noche. Madrid: Alfaguara, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[73]
+
+
+-={Concordancia}=-
+
+
+Caigo, caigo, caigo, mirando allá arriba la casa que se aleja en la ira del cielo hasta volverse un punto.
+
+
+-={Referencia bibliográfica}=-
+
+
+Brizuela, Leopoldo: Una misma noche. Madrid: Alfaguara, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[74]
+
+
+-={Concordancia}=-
+
+
+Mallarmé. Perderse en Europa, en Nueva York, naufragar en París, quedarse a la deriva en el Ganges, recorrer de cabo a rabo Londres, residir de incógnito en una favela, integrarse a las guerrillas castristas, volverse un bailarín de cha cha chá, moviéndose de un cabaret a otro de la ciudad noctámbula en una Vespa con la amada atrás. Ambos a horcajadas en un insecto metálico. No más mitologías telúricas ni indigenismos de trasnoche.
+
+
+-={Referencia bibliográfica}=-
+
+
+Valdovinos, Mario: Lihn, la muerte. Santiago de Chile: Desatanudos, Traful Editores, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[75]
+
+
+-={Concordancia}=-
+
+
+y abundante verdura. La dieta de Mariana era estricta e incluía cosas de ésas. Si fuera por él, podría sobrevivir con cualquier mierda. Gluten, por ejemplo. Kilos de gluten de soya. Si parte de volverse un ser civilizado, un hijo de su tiempo, consistía en abrazar el sistema de la cultura agrícola, habría que hacerlo como los grandes.
+
+
+-={Referencia bibliográfica}=-
+
+
+Maldonado, Tryno: Teoría de las catástrofes. México D. F.: Alfaguara, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[76]
+
+
+-={Concordancia}=-
+
+
+Lo menos que Niña necesita ahora es que la vean junto a un cómplice, ayudante, novio, criminal, testigo sospechoso como Aquiles; un niño que para volverse un culpable no exige demasiadas evidencias pues le basta con las huellas de sus pies.
+
+
+-={Referencia bibliográfica}=-
+
+
+Murga, Rebeca: Los aprendices. Madrid: Atmósfera Literaria, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Cuba - Antillas - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[77]
+
+
+-={Concordancia}=-
+
+
+Andrés sabía que en su posición era muy difícil poder tomar una decisión tan radical como la de la Santa, de dejarlo todo y volverse un monje como el protagonista de alguna película heroica. Sin embargo, ahora sabía que debía escuchar la voz de su corazón y dejarse guiar por ésta por ilógica e irracional que pudiera parecer.
+
+
+-={Referencia bibliográfica}=-
+
+
+Grajeda, Fernando: Un plan... sencillamente perfecto. Madrid: …ride Ediciones, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Guatemala - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[78]
+
+
+-={Concordancia}=-
+
+
+-No. Puede que la vida comunitaria sea maravillosa, pero estamos atrapados en una roca en medio del mar. Es imposible no volverse un poco loco.
+
+
+-={Referencia bibliográfica}=-
+
+
+Calvo, Javier: El jardín colgante. Barcelona: Seix Barral, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[79]
+
+
+-={Concordancia}=-
+
+
+aquietó los ánimos. Algo de eso se imaginó Marcelo Tinelli cuando se acercó como dirigente al club azulgrana. Algo de eso pensó su mano derecha, Matías Lammens, desde la presidencia, como voz cantante de lo que pretendió volverse un cambio drástico. En ese tono calmo de Pizzi, explicaciones pausadas y alejadas de la controversia, tratará de encauzarse el viejo Ciclón en la afanosa búsqueda de puntos en la lucha por la permanencia.
+
+
+-={Referencia bibliográfica}=-
+
+
+´Una nueva apuesta'. Lanacion.com. Buenos Aires: lanacion.com.ar, 2012-10-13.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Actualidad, ocio y vida cotidiana - Argentina - Río de la Plata
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[80]
+
+
+-={Concordancia}=-
+
+
+"es el único cuadro histórico de nuestro siglo, no porque representa un hecho histórico, sino porque es un hecho histórico". Y es cierto, este mural dejó muy pronto de ser una pintura cubista para volverse un documento trascendental; una constancia de lo que Picasso -el mejor pintor de su época- pensaba que tenía que ser una obra sobre y para la historia. Y es indudable que a este carácter de
+
+
+-={Referencia bibliográfica}=-
+
+
+Minera, María: ´El Guernica, blanco sobre negro'. Letras Libres. México D. F.: letraslibres.com, 2012-11.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Actualidad, ocio y vida cotidiana - México - México y Centroamérica - Crítica.
+
+Notas: Periodicidad: mensual.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[81]
+
+
+-={Concordancia}=-
+
+
+La brillante mente de Lederberg quedó preocupada, al caer en cuenta sobre algo que podría volverse un problema serio: la contaminación interplanetaria. ¿Cómo impedir que la imprudencia política afectara irremediablemente el desarrollo de la ciencia posterior? Por otro lado, pese al aparente pesimismo, Lederberg no sólo pregonaba la amenaza que representaba el
+
+
+-={Referencia bibliográfica}=-
+
+
+Oceguera Ponce, Yevi: ´Contaminación biológica interplanetaria'. Ciencia y desarrollo. México D. F.: conacyt.gob.mx./comunicacion/revista, 2012-06.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Ciencias y tecnología - México - México y Centroamérica - Divulgación.
+
+Notas: Periodicidad: bimestral.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+						Corpus del Español del Siglo XXI (CORPES)
+
+
+							    29/03/2016 - 12:02:57
+
+
+
+--------------------------------------------------------------- MODO DE CITA ---------------------------------------------------------------
+
+
+  REAL ACADEMIA ESPAÑOLA: Banco de datos (CORPES XXI) [en línea]. Corpus del Español del Siglo XXI (CORPES). <http://www.rae.es> [29/03/2016]
+
+
+
+================================================================= CONSULTA =================================================================
+
+
+  LEMA = {volver}
+
+  CLASE DE PALABRA = {verbo}
+
+
+ Subcorpus
+ ---------
+
+  ORIGEN = {(Todos)}
+
+
+ Proximidad
+ ----------
+
+  [DERECHA] [DISTANCIA = 1]
+
+    FORMA = {me}
+
+    CLASE DE PALABRA = {pronombre personal}
+
+
+  [DERECHA] [DISTANCIA = 3]
+
+    CLASE DE PALABRA = {sustantivo}
+
+
+  [DERECHA] [INTERVALO = 2]
+
+    FORMA = {una}
+
+
+================================================================ RESULTADOS ================================================================
+
+[1]
+
+
+-={Concordancia}=-
+
+
+me algo, no por nada me gané el dinero. (Pausa) Me puedo operar el vientre y volver a ser una niña. Levantarme las tetas y pasar largas horas en salones de belleza donde pueda volverme una mujer joven otra vez. Ya no quiero coger, ni que me coja nadie. Tengo las piernas cansadas, el culo como un cajón de bocinas viejas por donde sólo salen ruidos y mierda. (
+
+
+-={Referencia bibliográfica}=-
+
+
+Hinojosa, Hugo Alfredo: Diversiones. México D. F.: dramared.com, 2005.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Fecha de escritura.
+Ficción - Escrito - Libro - Teatro - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[2]
+
+
+-={Concordancia}=-
+
+
+de una buena vez un lugar en el asilo más cercano al lugar más apartado de este lugar. No me interesa ver ni escuchar a nadie. Prefiero, prefiero, subir un peldaño de algún edificio gigantesco y volverme una declamadora; dar largos discursos que se confundan con los gritos de todos. Voy a dar clases, eso es lo que voy a hacer. Clases sobre cómo formar familias; cómo dar a luz:
+
+
+-={Referencia bibliográfica}=-
+
+
+Hinojosa, Hugo Alfredo: Diversiones. México D. F.: dramared.com, 2005.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Fecha de escritura.
+Ficción - Escrito - Libro - Teatro - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[3]
+
+
+-={Concordancia}=-
+
+
+Volviéndome una vez más hacia la señora, ella pasó el dorso de la mano por mis pómulos. Y yo la dejé hacer. Muchas veces me sucedía con las mujeres, aunque debo reconocer que era distinto en
+
+
+-={Referencia bibliográfica}=-
+
+
+Miguens, Silvia: La baronesa del tango. Buenos Aires: Editorial Sudamericana, 2006.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[4]
+
+
+-={Concordancia}=-
+
+
+desde ese punto e ir hacia el extremo contrario. En otras palabras, dejar en segundo término mi placer y satisfacer a la otra persona. Me desconecté de mi cuerpo y mis sensaciones, sólo así consigues dar, para volverme una máquina incansable. Nadie más, estoy seguro, volvió a pensar que yo era egoísta. Lo sé porque me lo decían, se me quedaban viendo, me abrazaban y me confesaban que jamás habían experimentado
+
+
+-={Referencia bibliográfica}=-
+
+
+Mesa, Jaime: Rabia. México D. F.: Alfaguara, 2007.
+
+
+-={Clasificación CORPES}=-
+
+
+2007. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[5]
+
+
+-={Concordancia}=-
+
+
+para jarabe, dijo ella. Siempre tuve uno a mano. Nunca me volví loca. La abstinencia me paralizaba pero nunca alcanzó a volverme loca. Conocí gente que se quiso matar. Yo una vez creí volverme una araña, perder mi centro de gravedad, mirar mi piel como una costra. Pero nadie se percató. No hubo nadie que se diera cuenta; nadie que me mirara la cara y las ojeras;
+
+
+-={Referencia bibliográfica}=-
+
+
+Bisama, Álvaro: Estrellas muertas. Santiago de Chile: Alfaguara, 2010.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[6]
+
+
+-={Concordancia}=-
+
+
+. Las chicas estaban en pleno período de exámenes y pasaban más tiempo fuera que dentro. Y yo no quería quedarme a merced de mis fantasmas, de los reales, aquellos que quemaban la piel. Me daba miedo volverme una miedosa. Qué gracioso sería. Así que le acompañé, pensando quedarme un buen rato en el Blue Bay.
+
+
+-={Referencia bibliográfica}=-
+
+
+Ripoll, Ana: Los Incorpóreos I. El mundo de las sombras. Madrid: Siruela, 2010.
+
+
+-={Clasificación CORPES}=-
+
+
+2010. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+						Corpus del Español del Siglo XXI (CORPES)
+
+
+							    29/03/2016 - 12:01:52
+
+
+
+--------------------------------------------------------------- MODO DE CITA ---------------------------------------------------------------
+
+
+  REAL ACADEMIA ESPAÑOLA: Banco de datos (CORPES XXI) [en línea]. Corpus del Español del Siglo XXI (CORPES). <http://www.rae.es> [29/03/2016]
+
+
+
+================================================================= CONSULTA =================================================================
+
+
+  LEMA = {volver}
+
+  CLASE DE PALABRA = {verbo}
+
+
+ Subcorpus
+ ---------
+
+  ORIGEN = {(Todos)}
+
+
+ Proximidad
+ ----------
+
+  [DERECHA] [DISTANCIA = 1]
+
+    FORMA = {me}
+
+    CLASE DE PALABRA = {pronombre personal}
+
+
+  [DERECHA] [DISTANCIA = 3]
+
+    CLASE DE PALABRA = {sustantivo}
+
+
+  [DERECHA] [INTERVALO = 2]
+
+    FORMA = {un}
+
+
+================================================================ RESULTADOS ================================================================
+
+[1]
+
+
+-={Concordancia}=-
+
+
+Se abrazaron: Tatu se hubiera quedado refugiado en esos brazos, quién diría, para siempre. Y continuó tejiendo alrededor de sí mismo el hilo de seda del alma propia: En este momento puedo volverme un imbécil. Aquí el sendero se bifurca otra vez. Y no quiero ser un imbécil. Y no sé cuál de los senderos me lleva a ser lo que quiero ser: debo apelar a las pocas
+
+
+-={Referencia bibliográfica}=-
+
+
+Stella, Tulio: La familia Fortuna. El país del fugu. Madrid: Lengua de Trapo, 2001.
+
+
+-={Clasificación CORPES}=-
+
+
+2001. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[2]
+
+
+-={Concordancia}=-
+
+
+. Una imagen se sobrepuso a la otra. (Vuelve a caer algún telón alusivo al respecto.) Bastaron unos cuantos cuerpos de ancianos y jóvenes encuerados, temblorosos, para ponerme a lloriquear yo también, y volverme un rajón, traidor. Ni modo. Quién le manda hacernos libres, enseñarnos el camino pero dejarnos en libertad. Usted me dijo una vez: "Si busca la paz prepárese para la
+
+
+-={Referencia bibliográfica}=-
+
+
+Solares, Ignacio: ´Si buscas la paz, prepárate para la guerra'. Bonilla, Héctor; Enríquez, José Ramón; Solares, Ignacio: Tríptico de guerra. México D. F.: UNAM, 2003.
+
+
+-={Clasificación CORPES}=-
+
+
+2003. Criterio: Fecha de estreno.
+Ficción - Escrito - Libro - Teatro - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[3]
+
+
+-={Concordancia}=-
+
+
+Lo sorprendí al negarlo y volverme un dato estadístico menos, pues como sabes, ni siquiera filmo. Aprovechando su baja guardia, lo convencí de que Gabriela era quien debía utilizar los altos contactos maternos para viajar de nuevo.
+
+
+-={Referencia bibliográfica}=-
+
+
+Rentería, Enrique: Los delirios de Adrián. México D. F.: Tusquets, 2005.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[4]
+
+
+-={Concordancia}=-
+
+
+tabaco..., no me gusta. ¿Y el retrato? El retrato tampoco me gusta. No. Desde que ella ha dicho eso de que no le gustaría parecerse... ¡Bah!... ¿Estaré yo volviéndome un poco histérica también?"
+
+
+-={Referencia bibliográfica}=-
+
+
+Aldecoa, Josefina: La Casa Gris. Madrid: Alfaguara, 2005.
+
+
+-={Clasificación CORPES}=-
+
+
+2005. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[5]
+
+
+-={Concordancia}=-
+
+
+- Ha descrito mi situación bastante bien. También tengo que ser consciente del paso del tiempo, sin pretender que el reloj se pare. Existe el tiempo pasado, tiempo presente, tiempo futuro. Y al volverme un poco más viejo, siento cierto deseo por los papeles que demandan un cambio físico. Quiero volver a ser vanidoso ahora (Se ríe). Ya imagino el titular "Pierce Brosnan quiere volver a las vanidades
+
+
+-={Referencia bibliográfica}=-
+
+
+Waintal, Fabián W.: ´Pierce Brosnan: "Quiero volver a ser vanidoso"'. ABC.es. Madrid: abc.es, 2006-04-14.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Primera edición.
+No ficción - Escrito - Prensa - Actualidad, ocio y vida cotidiana - España
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[6]
+
+
+-={Concordancia}=-
+
+
+cuerpos podría estar monitoreado con algún chip. ¿Dónde podríamos escondernos del gobierno? Escribí todo esto porque si bien ya soy un ser marginal, no quiero ser como el hombre pelado de la laguna, es decir, volverme un hombre sin nombre. Quizá me hayan envenenado de una manera más sutil, es probable que esa horrible planta esté haciendo sus efectos en mí y yo vaya perdiendo la razón; recuerdo que a los internos
+
+
+-={Referencia bibliográfica}=-
+
+
+García Quiroga, Rodolfo: ´El mate te hace pensar cuando estás solo'. Letralia. Cagua: letralia.com, 2008.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - Argentina - Río de la Plata - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[7]
+
+
+-={Concordancia}=-
+
+
+le sus aventuras. Al amanecer se justificó: "En mi alma jamás se extingue esta sed por develar lo incógnito." Y añadió: "Antes que el tiempo me aliviane y antes de sentir que estoy en trance de volverme un sueño, deseo saber, oh Néstor, dónde encontraré esa agua que sacia toda sed humana." Ante la imposibilidad de responderle, el longevo líder reflexionó: "No olvides que el hombre fue
+
+
+-={Referencia bibliográfica}=-
+
+
+Valdano, Juan: ´No lo digas a nadie, Euriclea. Fantasía homérica'. Juegos de Proteo. Ficciones. Quito: Eskeletra editorial, 2008.
+
+
+-={Clasificación CORPES}=-
+
+
+2008. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - Ecuador - Andina - Ficción.
+
+Notas: Fecha de escritura: 2007.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[8]
+
+
+-={Concordancia}=-
+
+
+Falso Guerrero: Algún lugarcito en que me quede como fantasma. Eso es lo que quiero. Un rinconcito en su estudio. Me gusta. Ya por fin me entiendo con el clima. Volverme un fantasma chiquito. Fantasmita. Además, no es necesario existir para quedarse. ¿Ustedes existieron?
+
+
+-={Referencia bibliográfica}=-
+
+
+Enríquez, José Ramón: Guerrero en mi estudio. (Esperpento). México: Pasodegato, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Teatro - México - México y Centroamérica - Ficción.
+
+Notas: La obra se encuentra en el número 29 de la colección Cuadernos de Dramaturgia Mexicana.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[9]
+
+
+-={Concordancia}=-
+
+
+el tiempo para conseguir, lo antes posible, nuestro espacio propio, arde como una llaga mal cicatrizada. No sé si me gusta saber que aún puedo sentir, extrañar, desear. A veces, preferiría terminar de volverme un cadáver viviente, vaciarme por completo y quedarme existiendo, como una piel rellena de aire por dentro, un pellejo inflable que cumple con sus mínimas obligaciones de ser humano. Sé que Mara te ha visto
+
+
+-={Referencia bibliográfica}=-
+
+
+Valenzuela, José Ignacio: El filo de tu piel. México D. F.: Santillana Ediciones Generales, 2009.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Primera edición.
+Ficción - Escrito - Libro - Novela - Chile - Chilena - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[10]
+
+
+-={Concordancia}=-
+
+
+mujeres, ni hablar, todas nos engañan y sólo quieren... Ya no sé ni lo que quieren. Si les das dinero, quieren otra cosa. Si no les das, se enojan. He tenido que volverme un bufón para poder sobrevivir en este mundo. Todos somos unos muertos vivientes. El pasado era maravilloso. ¿Dónde me perdí?
+
+
+-={Referencia bibliográfica}=-
+
+
+Musalem, Verónica: Punta Cometa. www.iberescena.org: iberescena.org, 2013-04-30.
+
+
+-={Clasificación CORPES}=-
+
+
+2009. Criterio: Fecha de escritura.
+Ficción - Escrito - Libro - Teatro - México - México y Centroamérica - Ficción.
+
+Notas: Fecha de publicación: fecha de descarga del texto fuente.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[11]
+
+
+-={Concordancia}=-
+
+
+, que están registrados en el Diccionario de escritores mexicanos de la Unam, participé en muchos congresos y ferias, fui jurado y viví una intensa vida literaria. Pero después de 15 años no quería oficializarme, volverme un escritor oficial, satisfecho de sí mismo, engreído, inflado, tieso como estatua. Quería una nueva aventura en una ciudad hasta donde el más grande genio del mundo es un anónimo en las calles.
+
+
+-={Referencia bibliográfica}=-
+
+
+Arciniegas, Triunfo: ´¿Qué hace Eduardo en París? Conversación con Eduardo García Aguilar'. Letralia. Cagua: letralia.com, 2011-02-21.
+
+
+-={Clasificación CORPES}=-
+
+
+2011. Criterio: Ver nota.
+No ficción - Escrito - Prensa - Ciencias sociales, creencias y pensamiento - Colombia - Caribe continental
+
+Notas: Criterio de clasificación: nacionalidad del autor. Periodicidad: quincenal.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[12]
+
+
+-={Concordancia}=-
+
+
+siempre el inicio de la orgía acústica. Con todo y lluvia, los brasileños bailan y gritan y cantan samba. Se gritan en portugués; algunas cosas las entiendo -tantos años estudiando idiomas no sirvieron sólo para volverme un erudito-: casi siempre están ajustando las cuentas de la luz y los comestibles; pero el tono, la furia, pertenecen al mundo raro que comparten las plantas tropicales y el slang de un país
+
+
+-={Referencia bibliográfica}=-
+
+
+Feben, Ruy: ´Saudade'. Vórtices viles. México D. F.: Fondo Editorial Tierra Adentro, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[13]
+
+
+-={Concordancia}=-
+
+
+Muchos novelistas empezaron escribiendo poemas. Yo, por fortuna, me salté ese eslabón en la carrera por volverme un prosista de respeto. Bueno, todavía no lo consigo del todo, quizá voy en el escalón donde acomodan a los prosistas que todo mundo ignora, pero por lo menos no empecé queriendo vender gato por liebre,
+
+
+-={Referencia bibliográfica}=-
+
+
+Boone, Luis Jorge: ´Lo que jodió a Dante'. Largas filas de gente rara. México D. F.: Fondo de Cultura Económica, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Relato - México - México y Centroamérica - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[14]
+
+
+-={Concordancia}=-
+
+
+ha dedicado al cultivo del arroz. Yo también desde que era un niño. Se conoce que esa ansia porque la gente consuma arroz al ser nuestro negocio, nuestro medio de vida, me ha hecho obsesionarme y volverme un maniático del arroz.
+
+
+-={Referencia bibliográfica}=-
+
+
+Cedena, José: ´Don Sabino Curamanías'. Sainetazos a la crisis. Madrid: …ride Ediciones, 2012.
+
+
+-={Clasificación CORPES}=-
+
+
+2012. Criterio: Primera edición.
+Ficción - Escrito - Libro - Teatro - España - Ficción.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+						Corpus del Español del Siglo XXI (CORPES)
+
+
+							    29/03/2016 - 12:03:51
+
+
+
+--------------------------------------------------------------- MODO DE CITA ---------------------------------------------------------------
+
+
+  REAL ACADEMIA ESPAÑOLA: Banco de datos (CORPES XXI) [en línea]. Corpus del Español del Siglo XXI (CORPES). <http://www.rae.es> [29/03/2016]
+
+
+
+================================================================= CONSULTA =================================================================
+
+
+  LEMA = {volver}
+
+  CLASE DE PALABRA = {verbo}
+
+
+ Subcorpus
+ ---------
+
+  ORIGEN = {(Todos)}
+
+
+ Proximidad
+ ----------
+
+  [DERECHA] [DISTANCIA = 1]
+
+    FORMA = {te}
+
+    CLASE DE PALABRA = {pronombre personal}
+
+
+  [DERECHA] [DISTANCIA = 3]
+
+    CLASE DE PALABRA = {sustantivo}
+
+
+  [DERECHA] [INTERVALO = 2]
+
+    FORMA = {una}
+
+
+================================================================ RESULTADOS ================================================================
+
+[1]
+
+
+-={Concordancia}=-
+
+
+feliz y más feliz por que tú... (Pausa.) Te va a hacer pedazos como él lo está consiguiendo consigo mismo. ¿No te das cuenta? (Pausa.) ¡Eso, calla, vuélvete una estatua de sal...! (Pausa.) La comida seguro que ya no te sabe a nada. (Pausa.) Porque lo hice por tu integridad que te tiene sin cuidado. (Pausa
+
+
+-={Referencia bibliográfica}=-
+
+
+Chabaud, Jaime: Lluna. www.celcit.org.ar: celcit.org.ar, 2012-10-10.
+
+
+-={Clasificación CORPES}=-
+
+
+2006. Criterio: Fecha de escritura.
+Ficción - Escrito - Libro - Teatro - México - México y Centroamérica - Ficción.
+
+Notas: Fecha de publicación: fecha de descarga del texto fuente.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
